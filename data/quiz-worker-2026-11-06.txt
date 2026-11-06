@@ -25,3 +25,6 @@ A: Shirley Basey
 Auto Quiz - Eiffel Tower 🧠
 Q: What is the name of the talking cat in Persona 5?
 A: Morgana
+Auto Quiz - Psychology 🧠
+Q: Which team was the 2015-2016 NBA Champions?
+A: Cleveland Cavaliers
