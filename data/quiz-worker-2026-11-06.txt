@@ -172,3 +172,6 @@ A: Jonathan Demme
 Auto Quiz - Family 🧠
 Q: What was the first video game in the Batman &quot;Arkham&quot; series?
 A: Arkham Asylum
+Auto Quiz - Friendship 🧠
+Q: What is the molecular formula of the active component of chili peppers(Capsaicin)?
+A: C18H27NO3
