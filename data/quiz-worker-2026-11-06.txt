@@ -169,3 +169,6 @@ A: 1993
 Auto Quiz - Marriage 🧠
 Q: Who is the director of the 1991 film &quot;Silence of the Lambs&quot;?
 A: Jonathan Demme
+Auto Quiz - Family 🧠
+Q: What was the first video game in the Batman &quot;Arkham&quot; series?
+A: Arkham Asylum
