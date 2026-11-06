@@ -12,3 +12,4 @@ Egypt - bwb_S0-AST-144 - accurate from the history of egypt
 Egypt - pubmed-PMC3132902 - ASSOCIATION OF CYTOKINE GENE POLYMORPHISMS WITH PSORIASIS IN CASES FROM THE NILE DELTA OF EGYPT.
 Pyramids - pyramids0000mala_h2l0 - Pyramids
 Pyramids - WCWdb_32014 - Giza pyramids.
+Taj Mahal - rsdebate.nic.in.219793 - Suggestion of UNESCO team to Taj Mahal (24-Jul-1992)
