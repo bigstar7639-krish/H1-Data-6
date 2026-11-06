@@ -79,3 +79,6 @@ A: Lien-Da
 Auto Quiz - Space 🧠
 Q: Which genre of Hip Hop does MC Frontalot rap?
 A: Nerdcore
+Auto Quiz - Story 🧠
+Q: What is the real name of rapper, The Notorious B.I.G?
+A: Christopher Wallace
