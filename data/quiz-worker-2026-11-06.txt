@@ -121,3 +121,6 @@ A: 4
 Auto Quiz - Animal 🧠
 Q: Which river flows through the Scottish city of Glasgow?
 A: Clyde
+Auto Quiz - Teacher 🧠
+Q: In Yakuza 0, what is the order of the fighting styles acquired as Kazuma Kiryu?
+A: Brawler, Rush, Beast, Legend
