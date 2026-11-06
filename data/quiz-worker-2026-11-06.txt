@@ -82,3 +82,6 @@ A: Nerdcore
 Auto Quiz - Story 🧠
 Q: What is the real name of rapper, The Notorious B.I.G?
 A: Christopher Wallace
+Auto Quiz - Health 🧠
+Q: In the fighting game &quot;Skullgirls,&quot; which character utilizes a folding chair called the &quot;Hurting&quot; as a weapon?
+A: Beowulf
