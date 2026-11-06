@@ -4,3 +4,6 @@ A: Straw
 Auto Quiz - London 🧠
 Q: To which language family does Kazakh belong?
 A: Turkic
+Auto Quiz - Paris 🧠
+Q: In the Mario Kart series, which game introduced the &quot;Shield Drifting&quot; mechanic?
+A: Mario Kart Arcade GP DX
