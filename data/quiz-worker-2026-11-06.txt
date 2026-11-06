@@ -97,3 +97,6 @@ A: Germany
 Auto Quiz - Sea 🧠
 Q: When was &quot;YouTube&quot; founded?
 A: February 14, 2005
+Auto Quiz - Mountain 🧠
+Q: Which of these American cities has fewer than 1,000,000 people?
+A: San Francisco, California
