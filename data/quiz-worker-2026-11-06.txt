@@ -142,3 +142,6 @@ A: Thomas Hobbes
 Auto Quiz - Beauty 🧠
 Q: Which of Michael Jackson&#039;s albums sold the most copies?
 A: Thriller
+Auto Quiz - Fashion 🧠
+Q: Who is the primary lyricist for Canadian progressive rock band Rush?
+A: Neil Peart
