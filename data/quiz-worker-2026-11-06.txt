@@ -139,3 +139,6 @@ A: Earth-199999
 Auto Quiz - Sleep 🧠
 Q: The stuffed tiger in Calvin and Hobbes is named after what philosopher?
 A: Thomas Hobbes
+Auto Quiz - Beauty 🧠
+Q: Which of Michael Jackson&#039;s albums sold the most copies?
+A: Thriller
