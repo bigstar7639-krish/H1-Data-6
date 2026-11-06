@@ -88,3 +88,6 @@ A: Beowulf
 Auto Quiz - Music 🧠
 Q: What is the scientific term for &#039;taste&#039;?
 A: Gustatory Perception
+Auto Quiz - Temple 🧠
+Q: Who was the first Big Brother US winner to win with a perfect game?
+A: Dan Gheesling
