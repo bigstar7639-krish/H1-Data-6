@@ -28,3 +28,6 @@ A: Morgana
 Auto Quiz - Psychology 🧠
 Q: Which team was the 2015-2016 NBA Champions?
 A: Cleveland Cavaliers
+Auto Quiz - Economics 🧠
+Q: Without enchantments, which pickaxe in minecraft mines blocks the quickest.
+A: Golden 
