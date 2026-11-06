@@ -100,3 +100,6 @@ A: February 14, 2005
 Auto Quiz - Mountain 🧠
 Q: Which of these American cities has fewer than 1,000,000 people?
 A: San Francisco, California
+Auto Quiz - River 🧠
+Q: The Swedish word &quot;Grunka&quot; means what in English?
+A: Thing
