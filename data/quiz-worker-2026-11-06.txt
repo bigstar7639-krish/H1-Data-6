@@ -202,3 +202,6 @@ A: Final Fantasy Versus XIII
 Auto Quiz - Power 🧠
 Q: In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?
 A: Jumping over an office chair
+Auto Quiz - Magic 🧠
+Q: In World of Warcraft lore, who organized the creation of the Paladins?
+A: Alonsus Faol
