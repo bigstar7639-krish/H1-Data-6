@@ -106,3 +106,6 @@ A: Thing
 Auto Quiz - Sky 🧠
 Q: What is the real name of rapper, The Notorious B.I.G?
 A: Christopher Wallace
+Auto Quiz - Star 🧠
+Q: Which country has the Union Jack in its flag?
+A: New Zealand
