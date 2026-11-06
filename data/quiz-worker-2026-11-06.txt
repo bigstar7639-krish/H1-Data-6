@@ -94,3 +94,6 @@ A: Dan Gheesling
 Auto Quiz - Flower 🧠
 Q: The Herero genocide was perpetrated in Africa by which of the following colonial nations?
 A: Germany
+Auto Quiz - Sea 🧠
+Q: When was &quot;YouTube&quot; founded?
+A: February 14, 2005
