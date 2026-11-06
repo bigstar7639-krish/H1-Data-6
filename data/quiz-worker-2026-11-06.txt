@@ -145,3 +145,6 @@ A: Thriller
 Auto Quiz - Fashion 🧠
 Q: Who is the primary lyricist for Canadian progressive rock band Rush?
 A: Neil Peart
+Auto Quiz - Game 🧠
+Q: What is the capital of British Columbia, Canada?
+A: Victoria
