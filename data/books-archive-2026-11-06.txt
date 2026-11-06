@@ -13,3 +13,4 @@ Egypt - pubmed-PMC3132902 - ASSOCIATION OF CYTOKINE GENE POLYMORPHISMS WITH PSOR
 Pyramids - pyramids0000mala_h2l0 - Pyramids
 Pyramids - WCWdb_32014 - Giza pyramids.
 Taj Mahal - rsdebate.nic.in.219793 - Suggestion of UNESCO team to Taj Mahal (24-Jul-1992)
+Taj Mahal - tajmahalpassiong00pres - Taj Mahal
