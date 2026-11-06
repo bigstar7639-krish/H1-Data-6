@@ -40,3 +40,6 @@ A: Rik Mayall
 Auto Quiz - Education 🧠
 Q: What is Jean ValJean&#039;s first prisoner number?
 A: 24601
+Auto Quiz - Happiness 🧠
+Q: How many manned moon landings have there been?
+A: 6
