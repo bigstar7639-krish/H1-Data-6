@@ -163,3 +163,6 @@ A: Raul Men&eacute;ndez
 Auto Quiz - Culture 🧠
 Q: Which game in the &quot;Monster Hunter&quot; series introduced the &quot;Insect Glaive&quot; weapon?
 A: Monster Hunter 4
+Auto Quiz - Festival 🧠
+Q: In what year was the card game Magic: the Gathering first introduced?
+A: 1993
