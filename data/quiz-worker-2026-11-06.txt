@@ -112,3 +112,6 @@ A: New Zealand
 Auto Quiz - Moon 🧠
 Q: When was Final Fantasy XV released?
 A: November 29th, 2016
+Auto Quiz - Sun 🧠
+Q: Who is the half-demon character in Divinity: Original Sin 2 who you talk to to transition between acts?
+A: Malady
