@@ -184,3 +184,6 @@ A: 206
 Auto Quiz - Success 🧠
 Q: Which day did World War I begin?
 A: July 28
+Auto Quiz - Motivation 🧠
+Q: In 2012 the German-speaking microstate &quot;Liechtenstein&quot; in Central Europe had a population of how many inhabitants?
+A: 36,600
