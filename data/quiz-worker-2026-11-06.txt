@@ -178,3 +178,6 @@ A: C18H27NO3
 Auto Quiz - Study 🧠
 Q: What is the name of the talking cat in Persona 5?
 A: Morgana
+Auto Quiz - Dream 🧠
+Q: How many bones are in the human body?
+A: 206
