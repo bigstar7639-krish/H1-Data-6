@@ -181,3 +181,6 @@ A: Morgana
 Auto Quiz - Dream 🧠
 Q: How many bones are in the human body?
 A: 206
+Auto Quiz - Success 🧠
+Q: Which day did World War I begin?
+A: July 28
