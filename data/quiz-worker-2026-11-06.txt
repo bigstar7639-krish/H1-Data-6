@@ -133,3 +133,6 @@ A: San Francisco
 Auto Quiz - Fitness 🧠
 Q: The painting &quot;Guernica&quot; by Pablo Picasso expressed emotions of dread in response to which war?
 A: Spanish Civil War
+Auto Quiz - Diet 🧠
+Q: What is the designation given to the Marvel Cinematic Universe?
+A: Earth-199999
