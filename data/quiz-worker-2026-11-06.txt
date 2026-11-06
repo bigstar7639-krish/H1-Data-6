@@ -124,3 +124,6 @@ A: Clyde
 Auto Quiz - Teacher 🧠
 Q: In Yakuza 0, what is the order of the fighting styles acquired as Kazuma Kiryu?
 A: Brawler, Rush, Beast, Legend
+Auto Quiz - Money 🧠
+Q: In World of Warcraft lore, who organized the creation of the Paladins?
+A: Alonsus Faol
