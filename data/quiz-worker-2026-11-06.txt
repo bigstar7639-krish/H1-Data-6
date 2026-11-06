@@ -154,3 +154,6 @@ A: Sara Bareilles
 Auto Quiz - Football 🧠
 Q: Which country is singer Kyary Pamyu Pamyu from?
 A: Japan
+Auto Quiz - Science 🧠
+Q: Which of the following Grand Slam tennis tournaments occurs LAST?
+A: US Open
