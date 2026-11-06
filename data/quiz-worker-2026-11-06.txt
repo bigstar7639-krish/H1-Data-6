@@ -199,3 +199,6 @@ A: Dark Elves
 Auto Quiz - Wisdom 🧠
 Q: What is the original name of Final Fantasy XV?
 A: Final Fantasy Versus XIII
+Auto Quiz - Power 🧠
+Q: In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?
+A: Jumping over an office chair
