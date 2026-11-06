@@ -136,3 +136,6 @@ A: Spanish Civil War
 Auto Quiz - Diet 🧠
 Q: What is the designation given to the Marvel Cinematic Universe?
 A: Earth-199999
+Auto Quiz - Sleep 🧠
+Q: The stuffed tiger in Calvin and Hobbes is named after what philosopher?
+A: Thomas Hobbes
