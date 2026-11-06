@@ -85,3 +85,6 @@ A: Christopher Wallace
 Auto Quiz - Health 🧠
 Q: In the fighting game &quot;Skullgirls,&quot; which character utilizes a folding chair called the &quot;Hurting&quot; as a weapon?
 A: Beowulf
+Auto Quiz - Music 🧠
+Q: What is the scientific term for &#039;taste&#039;?
+A: Gustatory Perception
