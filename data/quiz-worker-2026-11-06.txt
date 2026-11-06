@@ -118,3 +118,6 @@ A: Malady
 Auto Quiz - Bird 🧠
 Q: In the &quot;Call Of Duty: Zombies&quot; map &quot;Origins&quot;, how many steps are there to upgrade a Staff?
 A: 4
+Auto Quiz - Animal 🧠
+Q: Which river flows through the Scottish city of Glasgow?
+A: Clyde
