@@ -46,3 +46,6 @@ A: 6
 Auto Quiz - Smile 🧠
 Q: Which player has scored the most goals in the England Premier League (EPL)?
 A: Alan Shearer
+Auto Quiz - Heart 🧠
+Q: In the &quot;To Love-Ru&quot; series, how many Trans-weapons were created?
+A: 3
