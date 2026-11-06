@@ -175,3 +175,6 @@ A: Arkham Asylum
 Auto Quiz - Friendship 🧠
 Q: What is the molecular formula of the active component of chili peppers(Capsaicin)?
 A: C18H27NO3
+Auto Quiz - Study 🧠
+Q: What is the name of the talking cat in Persona 5?
+A: Morgana
