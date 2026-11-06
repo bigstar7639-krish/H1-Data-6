@@ -43,3 +43,6 @@ A: 24601
 Auto Quiz - Happiness 🧠
 Q: How many manned moon landings have there been?
 A: 6
+Auto Quiz - Smile 🧠
+Q: Which player has scored the most goals in the England Premier League (EPL)?
+A: Alan Shearer
