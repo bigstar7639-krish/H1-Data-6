@@ -127,3 +127,6 @@ A: Brawler, Rush, Beast, Legend
 Auto Quiz - Money 🧠
 Q: In World of Warcraft lore, who organized the creation of the Paladins?
 A: Alonsus Faol
+Auto Quiz - Meditation 🧠
+Q: Which town is the setting for the Disney movie The Love Bug (1968)?
+A: San Francisco
