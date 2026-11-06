@@ -67,3 +67,6 @@ A: Highlander
 Auto Quiz - God 🧠
 Q: What is the Linnean name of the domestic apple tree?
 A: Malus pumila
+Auto Quiz - Nature 🧠
+Q: Who wrote the lyrics for Leonard Bernstein&#039;s 1957 Brodway musical West Side Story?
+A: Stephen Sondheim
