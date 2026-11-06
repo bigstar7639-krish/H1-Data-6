@@ -160,3 +160,6 @@ A: US Open
 Auto Quiz - History 🧠
 Q: In Call Of Duty: Black Ops II, who is the main antagonist?
 A: Raul Men&eacute;ndez 
+Auto Quiz - Culture 🧠
+Q: Which game in the &quot;Monster Hunter&quot; series introduced the &quot;Insect Glaive&quot; weapon?
+A: Monster Hunter 4
