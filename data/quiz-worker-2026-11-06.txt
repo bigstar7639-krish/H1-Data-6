@@ -148,3 +148,6 @@ A: Neil Peart
 Auto Quiz - Game 🧠
 Q: What is the capital of British Columbia, Canada?
 A: Victoria
+Auto Quiz - Sport 🧠
+Q: Who is the musical artist who released the hit song, &quot;Love Song,&quot; in 2007?
+A: Sara Bareilles
