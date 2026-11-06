@@ -151,3 +151,6 @@ A: Victoria
 Auto Quiz - Sport 🧠
 Q: Who is the musical artist who released the hit song, &quot;Love Song,&quot; in 2007?
 A: Sara Bareilles
+Auto Quiz - Football 🧠
+Q: Which country is singer Kyary Pamyu Pamyu from?
+A: Japan
