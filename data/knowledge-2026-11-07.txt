@@ -1526,3 +1526,6 @@ A: Brain - Science & Nature
 Knowledge Quiz
 Q: What is the scientific name of the Budgerigar?
 A: Melopsittacus undulatus - Animals
+Knowledge Quiz
+Q: What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?
+A: The Prince - Politics
