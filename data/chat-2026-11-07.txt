@@ -202,3 +202,5 @@ Talk 1796 - Friendship pathi pesalama? Sollu! 💬
 Movie 1797 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Thirukkural 1798 - Porumai - Periya Sakthi! - Thirukkural
 Q 1799 - Unakku Ramayana pathi enna theriyum?
+Coding Q 1800 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
