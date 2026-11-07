@@ -1996,3 +1996,5 @@ Coding Q 2203 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Talk 2204 - Travel pathi pesalama? Sollu!
 Knowledge 2205 - Science - Science pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Motivation 2206
+Paravalla! Rest edu - Thirumba try pannu!
