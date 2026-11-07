@@ -1562,3 +1562,6 @@ Knowledge 2200 - Faith - Hey buddy! 🙌 நான் Aira – உங்க �
   - **Self‑Faith** – “நான் முடியும்!” என்ற உள் நம்பிக்கை.  
   - **Social Faith** – நண்பர்கள், குடும்பம், சமூக அமைப்புகளில் இருக்கும் நம்பிக்கை.  
   - **Philosophical/Existential Faith** – “வாழ்க்கை அர்த்தமுள்ளதா?” “நல்லது எப்போதும் வெற்றியடையும்” போன்ற பெரிய கேள்விகளுக்கு பதி
+Knowledge Quiz
+Q: In Monster Hunter Generations, which of these hunter arts are exclusive to the Longsword?
+A: Unhinged Spirit - Entertainment: Video Games
