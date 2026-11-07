@@ -79,3 +79,6 @@ A: Duck Soup - Entertainment: Film
 Auto Quiz - Singing 🧠
 Q: What is the name of the Alligator that The Simpsons "killed" in the episode "Kill The Alligator and Run"?
 A: Captain Jack - Entertainment: Cartoon & Animations
+Auto Quiz - Dancing 🧠
+Q: What does DNA stand for?
+A: Deoxyribonucleic Acid - Science & Nature
