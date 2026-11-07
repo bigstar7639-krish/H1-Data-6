@@ -857,3 +857,4 @@ Smart Q 2152 - Ocean la eppadi jeyikkarathu?
 Q 2153 - Un life la Mountain eppadi irukku?
 Motivation 2154
 Paravalla! Rest edu - Thirumba try pannu!
+Talk 2155 - Luck pathi pesalama? Sollu! 💬
