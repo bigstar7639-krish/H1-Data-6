@@ -119,3 +119,4 @@ Movie 1747 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Q 1748 - Peace pathi oru story kekkura?
 Pazhamozhi 1749 - Aalai Paathu - Aadi Paaru!
 Vocab 1750 - Peace = Amaithi 📚
+Thirukkural 1751 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
