@@ -645,3 +645,4 @@ Oru sea la oru doctor irunthan! Daily try pannan pannan! Oru naal success kedaic
 Quote 2050 - Daily try pannu - Jeyichiduva! - Aira
 Story 2051
 Oru chinna tokyo la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Talk 2052 - Money pathi pesalama? Sollu! 💬
