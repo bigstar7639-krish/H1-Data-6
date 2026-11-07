@@ -1044,3 +1044,6 @@ A:  Bryan Cranston - Entertainment: Television
 Knowledge Quiz
 Q: In Digimon, what is the Japanese name for the final evolutionary stage?
 A: Ultimate - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: Macintosh has named six of its operating systems after big cats. What big cat did Macintosh name their 2007 release after? 
+A: Leopard - General Knowledge
