@@ -1396,3 +1396,6 @@ Knowledge Quiz
 Q: In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?
 A: Final - Science: Computers
 Knowledge 2069 - Fitness - Fitness pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Knowledge Quiz
+Q: Alan Reed is known for providing the voice of which character?
+A: Fred Flintstone - Entertainment: Television
