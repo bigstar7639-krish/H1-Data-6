@@ -739,3 +739,6 @@ Economics என்பது **“scarcity”** (குறை) மற்று�
 Knowledge Quiz 🧠
 Q: Who won NFL Super Bowl LI? (51)
 A: Patriots - Sports
+Knowledge Quiz 🧠
+Q: Which of the following is not one of the seven Millennium Prize Problems?
+A: Navi&eacute;r conjecture - Science: Mathematics
