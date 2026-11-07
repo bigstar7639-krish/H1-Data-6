@@ -1472,3 +1472,6 @@ A: TCAS - Vehicles
 Knowledge Quiz
 Q: In the Nintendo Game Splatoon 2, what is Marina's screen name?
 A: DJ_Hyperfresh - Entertainment: Video Games
+Knowledge Quiz
+Q: In the "Jurassic Park" universe, when did "Jurassic Park: San Diego" begin construction?
+A: 1985 - Entertainment: Film
