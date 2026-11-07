@@ -1918,3 +1918,4 @@ Story 2162
 Oru chinna oor la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Motivation 2163
 Paravalla! Rest edu - Thirumba try pannu!
+Talk 2164 - Biology pathi pesalama? Sollu!
