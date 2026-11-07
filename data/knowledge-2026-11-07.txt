@@ -1284,3 +1284,6 @@ A: "Dood" - Entertainment: Video Games
 Knowledge Quiz
 Q: Which country inside the United Kingdom does NOT appear on its flag, the Union Jack?
 A: Wales - Geography
+Knowledge Quiz
+Q: In Norse Mythology, Baldr was killed by Loki with a magical spear made from what plant?
+A: Mistletoe - Mythology
