@@ -620,3 +620,4 @@ Pazhamozhi 2036 - Aalai Paathu - Aadi Paaru!
 Q 2037 - Un life la Rain eppadi irukku?
 Coding Q 2038 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Talk 2039 - River pathi pesalama? Sollu! 💬
