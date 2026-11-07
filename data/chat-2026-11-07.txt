@@ -1693,3 +1693,5 @@ Health 2027 - Health Tip: Fruits daily saapdunga!
 Fact 92 - Octopus ku 3 heart!
 Smart Q 2029 - Universe la eppadi jeyikkarathu?
 Fact 93 - Octopus ku 3 heart!
+Coding Q 2031 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
