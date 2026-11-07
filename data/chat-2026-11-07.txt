@@ -646,3 +646,4 @@ Quote 2050 - Daily try pannu - Jeyichiduva! - Aira
 Story 2051
 Oru chinna tokyo la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Talk 2052 - Money pathi pesalama? Sollu! 💬
+Talk 2053 - Tokyo pathi pesalama? Sollu! 💬
