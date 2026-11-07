@@ -1428,3 +1428,5 @@ Aira AI: Paravalla! Aira irukka - Pesu!
 Health 1878 - Health Tip: Daily 8 glass water kudinga!
 Motivation 1879
 Paravalla! Rest edu - Thirumba try pannu!
+Joke 1880
+Teacher: Yen late? Student: School Ahead board!
