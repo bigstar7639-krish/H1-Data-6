@@ -262,3 +262,5 @@ Fact 76 - Honey - 3000 varusham kedathu!
 Talk 1836 - History pathi pesalama? Sollu! 💬
 Vocab 1837 - Friend = Nanban 📚
 Q 1838 - Ne Peace la eppadi improve panna mudiyum?
+Joke 1839
+Teacher: Yen late? Student: School Ahead board! 😂
