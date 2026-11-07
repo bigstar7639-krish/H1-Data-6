@@ -1752,3 +1752,5 @@ Q 2064 - Unakku CSS pathi enna theriyum?
 Coding Q 2065 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Business Idea 2066 - Instagram Page - Daily 1 Post!
+Story 2067
+Oru chinna sea la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
