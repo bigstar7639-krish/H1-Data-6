@@ -28,3 +28,4 @@ Lion - lion_7_0 - lion_7_0
 Lion - gov.uscourts.nysd.615426 - Lion Capital LLP v. Lion Investment Group LLC
 Horse - bwb_Y0-BYL-514 - The Manual of Horsemanship of the British Horse Society and the Pony Club
 Horse - horsewalksintoba0000gros_e3j3 - A horse walks into a bar
+Bike - fourcornersworld0000spit - Four Corners world bike ride : 4 teams of 4 cyclists riding to England from Bolivia, Hong Kong, Zimbabwe and Australia
