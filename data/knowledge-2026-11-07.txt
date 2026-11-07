@@ -1008,3 +1008,6 @@ A: The Black Cauldron - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: In the 1984 movie "The Terminator", what model number is the Terminator portrayed by Arnold Schwarzenegger?
 A: T-800 - Entertainment: Film
+Knowledge Quiz
+Q: How many planets make up our Solar System?
+A: 8 - Science & Nature
