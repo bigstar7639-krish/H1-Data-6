@@ -173,3 +173,5 @@ Aira: Python loop: `for i in range(5): print(i)`
 Smart Q 1779 - Excited la eppadi jeyikkarathu?
 Health 1780 - Health Tip: Daily 30 min walk ponga! 🚶 💪
 Kavithai 1781 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
+Emotion Q 1782 - excited?
+Aira: Excited ah! Sollu! 🎉
