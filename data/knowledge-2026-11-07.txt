@@ -682,3 +682,6 @@ Knowledge 2160 - Chennai - Chennai pathi sollu - Nalla question! Daily try pannu
 Knowledge Quiz 🧠
 Q: The human right lung has how many lobes?
 A: 3 - Science &amp; Nature
+Knowledge Quiz 🧠
+Q: What does LTS stand for in the software market?
+A: Long Term Support - Science: Computers
