@@ -1435,3 +1435,6 @@ A: Dynamic - Entertainment: Comics
 Knowledge Quiz
 Q: What fruit is a traditional ingredient of a Black Forest Gateau?
 A: Cherries - General Knowledge
+Knowledge Quiz
+Q: Who made the discovery of X-rays?
+A: Wilhelm Conrad Röntgen - Science & Nature
