@@ -45,3 +45,4 @@ Game 2077 - Coin Toss - Ne Toss nu Sollu!
 Game 2101 - Dice - Ne Dice nu Sollu!
 Game 2105 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 2168 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
+Game 2189 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
