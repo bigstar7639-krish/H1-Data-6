@@ -1302,3 +1302,6 @@ A: Human Torch - Entertainment: Film
 Knowledge Quiz
 Q: Which movie served as the KTMA pilot episode for the show "Mystery Science Theater 3000"?
 A: The Green Slime - Entertainment: Television
+Knowledge Quiz
+Q: Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
+A: JavaScript - Science: Computers
