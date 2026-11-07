@@ -61,3 +61,5 @@ Reading 1714 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 📚
 Vocab 1715 - Kindness = Anbu 📚
 Game 1716 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
 Talk 1717 - Psychology pathi pesalama? Sollu! 💬
+Coding Q 1718 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
