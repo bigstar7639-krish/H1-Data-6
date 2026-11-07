@@ -685,3 +685,6 @@ A: 3 - Science &amp; Nature
 Knowledge Quiz 🧠
 Q: What does LTS stand for in the software market?
 A: Long Term Support - Science: Computers
+Knowledge Quiz 🧠
+Q: In the PAYDAY series, who betrayed the PAYDAY gang that got Hoxton arrested?
+A: Hector - Entertainment: Video Games
