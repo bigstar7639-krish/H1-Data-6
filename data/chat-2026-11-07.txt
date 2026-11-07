@@ -1628,3 +1628,4 @@ Fact 90 - Honey - 3000 varusham kedathu!
 Talk 1987 - Reading pathi pesalama? Sollu!
 Fact 91 - Octopus ku 3 heart!
 Game 1989 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
+Movie 1990 - Leo - Vijay - Action!
