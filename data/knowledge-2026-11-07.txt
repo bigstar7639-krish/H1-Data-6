@@ -1520,3 +1520,6 @@ A: Finland - Geography
 Knowledge Quiz
 Q: Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?
 A: Dave - Entertainment: Film
+Knowledge Quiz
+Q: Where in the human body is the Pineal Gland located?
+A: Brain - Science & Nature
