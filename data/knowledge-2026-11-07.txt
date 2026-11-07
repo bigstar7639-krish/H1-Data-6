@@ -1490,3 +1490,6 @@ A: Steven Grant Rogers  - Entertainment: Comics
 Knowledge Quiz
 Q: What is the name of the peninsula containing Spain and Portugal?
 A: Iberian Peninsula - Geography
+Knowledge Quiz
+Q: Where in the human body is the Pineal Gland located?
+A: Brain - Science & Nature
