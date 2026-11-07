@@ -36,3 +36,4 @@ Game 1838 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 1890 - Coin Toss - Ne Toss nu Sollu!
 Game 1944 - Dice - Ne Dice nu Sollu!
 Game 1959 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Game 1966 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
