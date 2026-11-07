@@ -1065,3 +1065,6 @@ A: Jazz - Entertainment: Music
 Knowledge Quiz
 Q: Which one is NOT the function of engine oil in car engines?
 A: Combustion - Vehicles
+Knowledge Quiz
+Q: The RMS Titanic sunk during her maiden voyage from Southampton, England to which American city?
+A: New York City - History
