@@ -1976,3 +1976,5 @@ Game 2195 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Q 2196 - Coding pathi oru secret sollatta?
 Movie 2197 - Jailer - Rajini - Mass!
 Movie 2198 - Harry Potter - Magic!
+Joke 2199
+Teacher: Yen late? Student: School Ahead board!
