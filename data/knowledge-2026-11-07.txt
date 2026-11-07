@@ -1362,3 +1362,21 @@ A: 6 - Animals
 Knowledge Quiz
 Q: In "Resident Evil 2", which virus was William Birkin mutated by?
 A: G-Virus - Entertainment: Video Games
+Knowledge 2051 - Plants - Hey friend! 🌿 Naan Aira—Tamil‑Tanglish mix pottu ellam kettu kolla ready! So, let’s chat about **plants** (இலை, மரம், பூ).  
+
+---
+
+## 1. Plants என்ன?  
+Plants are **autotrophs** – they make their own food using **photosynthesis** (ஒளி, நீர், கார்பன் டைஅக்சைடு → சுக்கர் + ஆக்ஸிஜன்).  
+- **Chlorophyll** (பச்சை நிற pigment) absorbs sunlight.  
+- Main parts: **roots (வேர்), stem (கயிறு), leaves (இலை), flowers (பூ), fruits (பழம்), seeds (விதை)**.
+
+---
+
+## 2. Types of plants / வகைகள்  
+
+| Category | Examples (Tamil+English) | 특징 (Features) |
+|----------|--------------------------|----------------|
+| **Algae** | கடல் அல்கி, ஸ்பைருலினா | Water‑based, simple cells, often used as super‑food. |
+| **Mosses & Liverworts** | புல், குண்டம் | Non‑vascular, love moist shady places. |
+| **Gymnosperms** (non
