@@ -43,3 +43,6 @@ A: Victor - General Knowledge
 Auto Quiz - Car 🧠
 Q: Which city is the capital of the United States of America?
 A: Washington D.C - Geography
+Auto Quiz - Train 🧠
+Q: Which ocean borders the west coast of the United States?
+A: Pacific - Geography
