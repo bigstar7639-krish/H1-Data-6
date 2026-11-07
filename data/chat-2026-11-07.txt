@@ -1748,3 +1748,4 @@ Health 2060 - Health Tip: Daily 30 min walk ponga!
 Vocab 2061 - Dream = Kanavu
 Quote 2062 - Daily try pannu - Jeyichiduva! - Aira
 Aira AI: Ne God la eppadi improve panna mudiyum? - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Q 2064 - Unakku CSS pathi enna theriyum?
