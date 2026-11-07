@@ -1582,3 +1582,6 @@ A: My Father's Journal - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: What is the atomic mass of Carbon?
 A: 12 - Science & Nature
+Knowledge Quiz
+Q: How many spaces are there on a standard Monopoly board?
+A: 40 - Entertainment: Board Games
