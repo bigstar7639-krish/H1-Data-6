@@ -30,3 +30,4 @@ Game 1783 - Dice - Ne Dice nu Sollu!
 Game 1794 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 1812 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Game 1818 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
+Game 1823 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
