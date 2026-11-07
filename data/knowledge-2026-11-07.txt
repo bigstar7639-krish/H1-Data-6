@@ -808,3 +808,6 @@ A: Foucault Pendulum  - Science & Nature
 Knowledge Quiz
 Q: Which of these species is not extinct?
 A: Komodo dragon - Animals
+Knowledge Quiz
+Q: Which of these is NOT the name of an album released by English singer-songwriter Adele?
+A: 12 - Entertainment: Music
