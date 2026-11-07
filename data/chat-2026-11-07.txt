@@ -1239,3 +1239,4 @@ Game 1783 - Dice - Ne Dice nu Sollu!
 Smart Q 1784 - Sun la eppadi jeyikkarathu?
 Vocab 1785 - Love = Kadhal
 Health 1786 - Health Tip: Daily 30 min walk ponga!
+Thirukkural 1787 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
