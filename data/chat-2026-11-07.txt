@@ -1421,3 +1421,4 @@ Vocab 1872 - Success = Vetri
 World Story 1873
 Oru chinna new york la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Movie 1874 - Jailer - Rajini - Mass!
+Knowledge 1875 - Yoga - Yoga pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
