@@ -634,3 +634,6 @@ A: Michael Collins - General Knowledge
 Knowledge Quiz 🧠
 Q: What is the name of Sherlock Holmes&#039;s brother?
 A: Mycroft Holmes - Entertainment: Books
+Knowledge Quiz 🧠
+Q: What does the International System of Quantities refer 1024 bytes as?
+A: Kibibyte - Science: Computers
