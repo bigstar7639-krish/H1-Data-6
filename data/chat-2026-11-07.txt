@@ -563,3 +563,5 @@ Pazhamozhi 2001 - Aalai Paathu - Aadi Paaru!
 Emotion Q 2002 - angry?
 Aira: Kovam ah? Deep breath edu! 😤
 Vocab 2003 - Kindness = Anbu 📚
+Coding Q 2004 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
