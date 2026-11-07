@@ -27,3 +27,4 @@ Game 2178 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu! ð
 Game 1768 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 1770 - Coin Toss - Ne Toss nu Sollu!
 Game 1783 - Dice - Ne Dice nu Sollu!
+Game 1794 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
