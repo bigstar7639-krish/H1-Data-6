@@ -1965,3 +1965,5 @@ Teacher: Yen late? Student: School Ahead board!
 World Story 2188
 Oru delhi la oru student irunthan! Daily padichan pannan! Oru naal treasure kedaichuchu! Life maariduchu!
 Game 2189 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
+Coding Q 2190 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
