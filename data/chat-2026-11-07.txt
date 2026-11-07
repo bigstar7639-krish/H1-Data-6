@@ -1278,3 +1278,5 @@ Smart Q 1796 - Job la eppadi jeyikkarathu?
 Joke 1797
 Why bike sad? Petrol illa!
 Reading 1798 - Atomic Habits!
+Coding Q 1799 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
