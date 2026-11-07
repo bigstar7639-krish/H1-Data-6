@@ -1505,3 +1505,6 @@ A: Caudal - General Knowledge
 Knowledge Quiz
 Q: In the movie "Blade Runner", what is the term used for human-like androids ?
 A: Replicants - Entertainment: Film
+Knowledge Quiz
+Q: In the "Metal Gear Solid" series, what's the name of Solid Snake's brother?
+A: Liquid Snake - Entertainment: Video Games
