@@ -1296,3 +1296,5 @@ Vocab 1810 - Love = Kadhal
 Talk 1811 - Power pathi pesalama? Sollu!
 Game 1812 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Movie 1813 - Leo - Vijay - Action!
+Motivation 1814
+Paravalla! Rest edu - Thirumba try pannu!
