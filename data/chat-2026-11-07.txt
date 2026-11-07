@@ -902,3 +902,5 @@ Why bike sad? Petrol illa!
 Health 2183 - Health Tip: Fruits daily saapdunga! 🍎 💪
 Kavithai 2184 - Un Sirippu - En Vazhkai! - Aira
 Talk 2185 - Mumbai pathi pesalama? Sollu! 💬
+Coding Q 2186 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
