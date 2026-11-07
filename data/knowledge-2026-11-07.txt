@@ -954,3 +954,6 @@ A: Socrates - History
 Knowledge Quiz
 Q: Who is often called "the Maestro" in the men's tennis circuit?
 A: Roger Federer - Sports
+Knowledge Quiz
+Q: An Ankh is the Egyptian Hieroglyph for what?
+A: Life - Mythology
