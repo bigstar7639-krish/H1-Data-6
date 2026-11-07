@@ -1246,3 +1246,6 @@ A: Henry Pym - Entertainment: Comics
 Knowledge Quiz
 Q: In "The Lord of the Rings," who is the owner of Asfaloth, the horse which brings Frodo to Rivendell?
 A: Glorfindel - Entertainment: Books
+Knowledge Quiz
+Q: Which celebrity announced his presidency in 2015?
+A: Kanye West - Celebrities
