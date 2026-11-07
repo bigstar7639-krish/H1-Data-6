@@ -1298,3 +1298,5 @@ Game 1812 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Movie 1813 - Leo - Vijay - Action!
 Motivation 1814
 Paravalla! Rest edu - Thirumba try pannu!
+Coding Q 1815 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
