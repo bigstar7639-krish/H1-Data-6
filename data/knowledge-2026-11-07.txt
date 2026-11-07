@@ -1454,3 +1454,6 @@ Knowledge 2113 - Bhagavad Gita - Bhagavad Gita pathi sollu - Nalla question! Dai
 Knowledge Quiz
 Q: Which of the following is NOT a Russian car manufacturer?
 A: BYD - Vehicles
+Knowledge Quiz
+Q: Which of the following languages does NOT use gender as a part of its grammar?
+A: Turkish - General Knowledge
