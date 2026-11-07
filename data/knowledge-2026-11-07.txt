@@ -1487,3 +1487,6 @@ A: Labrador Retriever - Entertainment: Film
 Knowledge Quiz
 Q: What is the real full name of Captain America?
 A: Steven Grant Rogers  - Entertainment: Comics
+Knowledge Quiz
+Q: What is the name of the peninsula containing Spain and Portugal?
+A: Iberian Peninsula - Geography
