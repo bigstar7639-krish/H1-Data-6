@@ -698,3 +698,5 @@ Recipe 2078 - Cake - Maida + Sugar + Egg + 30 min! 🍔
 Vocab 2079 - Love = Kadhal 📚
 Story 2080
 Oru chinna city la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Emotion Q 2081 - excited?
+Aira: Excited ah! Sollu! 🎉
