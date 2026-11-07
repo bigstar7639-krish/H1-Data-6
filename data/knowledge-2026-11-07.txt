@@ -948,3 +948,6 @@ Knowledge 1747 - Eiffel Tower - **Eiffel Tower**-ஐப் பற்றி ச�
 
 ### Fun Facts (கூடுதல் தகவல்கள்)  
 - **Weight:** Approx. 10,000 tonnes
+Knowledge Quiz
+Q: With which Greek philosopher would you associate the phrase, "I know that I know nothing"?
+A: Socrates - History
