@@ -1105,3 +1105,6 @@ A: Zero Wing - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of the following characters were considered for inclusion in Super Smash Bros. Melee?
 A: Lucas - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the official language of Bhutan?
+A: Dzongkha - Geography
