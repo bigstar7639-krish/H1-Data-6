@@ -422,3 +422,5 @@ Aira: AI - Data paathu - Pattern!
 Aira AI: Peace pathi oru story kekkura? - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Smart Q 1923 - Peace la eppadi jeyikkarathu?
 Smart Q 1924 - World la eppadi jeyikkarathu?
+Coding Q 1925 - React la component enna?
+Aira: React component - Chinna piece!
