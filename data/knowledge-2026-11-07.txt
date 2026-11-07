@@ -301,3 +301,6 @@ A: 21 - Entertainment: Board Games
 Knowledge Quiz 🧠
 Q: A minotaur is half human half what?
 A: Bull - Mythology
+Knowledge Quiz 🧠
+Q: Which of the following countries has a flag featuring a yellow lion wielding a sword on a dark red background?
+A: Sri Lanka - Geography
