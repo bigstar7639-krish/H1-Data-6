@@ -373,3 +373,5 @@ Smart Q 1899 - Music la eppadi jeyikkarathu?
 World Story 1900
 Oru chinna madurai la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Smart Q 1901 - Family la eppadi jeyikkarathu?
+Emotion Q 1902 - excited?
+Aira: Excited ah! Sollu! 🎉
