@@ -1927,3 +1927,5 @@ Coding Q 2169 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
 Coding Q 2170 - React la component enna?
 Aira: React component - Chinna piece!
+Story 2171
+Oru chinna london la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
