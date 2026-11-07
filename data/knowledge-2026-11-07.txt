@@ -1305,3 +1305,6 @@ A: The Green Slime - Entertainment: Television
 Knowledge Quiz
 Q: Which coding language was the #1 programming language in terms of usage on GitHub in 2015?
 A: JavaScript - Science: Computers
+Knowledge Quiz
+Q: Who patented a steam engine that produced continuous rotary motion?
+A: James Watt - Science: Gadgets
