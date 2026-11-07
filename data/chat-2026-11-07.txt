@@ -1640,3 +1640,4 @@ Emotion Q 1997 - happy?
 Aira: Super! Happy ah irukka!
 Quote 1998 - Daily try pannu - Jeyichiduva! - Aira
 Recipe 1999 - Cake - Maida + Sugar + Egg + 30 min!
+Reading 2000 - Python Crash Course!
