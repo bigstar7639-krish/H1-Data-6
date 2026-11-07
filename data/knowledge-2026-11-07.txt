@@ -1529,3 +1529,6 @@ A: Melopsittacus undulatus - Animals
 Knowledge Quiz
 Q: What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?
 A: The Prince - Politics
+Knowledge Quiz
+Q: Which species is a "mountain chicken"?
+A: Frog - Animals
