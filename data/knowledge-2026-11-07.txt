@@ -426,3 +426,6 @@ A: Roy Mustang - Entertainment: Japanese Anime &amp; Manga
 Knowledge Quiz 🧠
 Q: &quot;A3&quot;, &quot;B1&quot;, and &quot;Legal&quot; are typical names of sizes for what object?
 A: Paper - General Knowledge
+Knowledge Quiz 🧠
+Q: What does the &#039;S&#039; in the RSA encryption algorithm stand for?
+A: Shamir - Science: Computers
