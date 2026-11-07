@@ -1484,3 +1484,6 @@ A: (4/3)πr^3 - Science: Mathematics
 Knowledge Quiz
 Q: What breed of dog was Marley in the film "Marley & Me" (2008)?
 A: Labrador Retriever - Entertainment: Film
+Knowledge Quiz
+Q: What is the real full name of Captain America?
+A: Steven Grant Rogers  - Entertainment: Comics
