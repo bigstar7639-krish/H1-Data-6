@@ -1499,3 +1499,6 @@ A: 13 - Science: Mathematics
 Knowledge Quiz
 Q: Which actor has NOT portrayed Billy Flynn in the musical "Chicago"?
 A: Christopher Walken - Entertainment: Musicals & Theatres
+Knowledge Quiz
+Q: Which of these anatomical terms refers to the tail end of the creature?
+A: Caudal - General Knowledge
