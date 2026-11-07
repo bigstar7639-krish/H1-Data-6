@@ -1294,3 +1294,4 @@ Fact 78 - Tamil - 2000+ varusha mozhi!
 Fact 79 - Tamil - 2000+ varusha mozhi!
 Vocab 1810 - Love = Kadhal
 Talk 1811 - Power pathi pesalama? Sollu!
+Game 1812 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
