@@ -21,3 +21,4 @@ jpn - text-19 - Text 19
 kor - 6454589-184-yuseongyeob-2018-gughoeyiweon-jeonbug-jeongeubsigocanggun - 184 유성엽 2018 국회의원 전북 정읍시고창군
 kor - 6454732-319-hwangyeongceol-2018-gughoeyiweon-gangweon-hongceongunceolweongunhwaceongunyangguguninjeg - 319 황영철 2018 국회의원 강원 홍천군철원군화천군양구군인제군
 chi - shibao-1919.07.18 - 時報 1919.07.18
+kan - in.gazette.karnataka_eo.2020-08-06.139 - Karnataka ExtraOrdinary Gazette, 2020-08-06, Extra Ordinary, Part III
