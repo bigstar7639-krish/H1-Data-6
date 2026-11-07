@@ -1017,3 +1017,6 @@ A: Leonhard - Science: Mathematics
 Knowledge Quiz
 Q: Who is Sora's Nobody in Kingdom Hearts?
 A: Roxas - Entertainment: Video Games
+Knowledge Quiz
+Q: According to legend, the ancient Greeks constructed a huge wooden model of which animal to gain entrance to Troy?
+A: Horse - History
