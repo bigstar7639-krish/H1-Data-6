@@ -1118,3 +1118,6 @@ A: Rank 1 Legend - Entertainment: Video Games
 Knowledge Quiz
 Q: Which animation studio animated "Psycho Pass"?
 A: Production I.G - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: What was Radiohead's first album?
+A: Pablo Honey - Entertainment: Music
