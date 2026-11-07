@@ -694,3 +694,4 @@ Knowledge 2075 - AI - AI - Data paathu - Pattern!
 Emotion Q 2076 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva! 💪
 Knowledge 2077 - Python - Python loop: `for i in range(5): print(i)`
+Recipe 2078 - Cake - Maida + Sugar + Egg + 30 min! 🍔
