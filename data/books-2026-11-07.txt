@@ -27,3 +27,4 @@ kan - in.gazette.karnataka_eo.2022-02-17.32.2021-22 - Karnataka ExtraOrdinary Ga
 jpn - text-19 - Text 19
 ara - write.ass - ‎⁨الرد على جهالات المتعصب لأوروبا في أصول التاريخ ومنهجه.⁩
 hin - in.gov.bih.gazette.2011-08-25.439 - Bihar Gazette, 2011-08-25, Extra Ordinary
+hin - in.gov.bih.gazette.2016-02-01.86 - Bihar Gazette, 2016-02-01, Extra Ordinary
