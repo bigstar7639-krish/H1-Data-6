@@ -567,3 +567,4 @@ Coding Q 2004 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Coding Q 2005 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
+Health 2006 - Health Tip: Daily 30 min walk ponga! 🚶 💪
