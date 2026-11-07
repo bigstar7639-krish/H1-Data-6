@@ -39,3 +39,6 @@ A: Ole Kirk Christiansen - General Knowledge
 Knowledge Quiz 🧠
 Q: &quot;Lift Your Spirit&quot; is an album by which artist?
 A: Aloe Blacc - Entertainment: Music
+Knowledge Quiz 🧠
+Q: What is the main CPU is the Sega Mega Drive / Sega Genesis?
+A: Motorola 68000 - Science: Computers
