@@ -1441,3 +1441,6 @@ A: Wilhelm Conrad Röntgen - Science & Nature
 Knowledge Quiz
 Q: What is the capital of Scotland?
 A: Edinburgh - Geography
+Knowledge Quiz
+Q: During World War 2, with tank was the most fear by the allies?
+A: PanzerKampfwagen V Panther - Vehicles
