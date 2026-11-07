@@ -25,3 +25,4 @@ Game 2137 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
 Game 2164 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
 Game 2178 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu! 🎮
 Game 1768 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
+Game 1770 - Coin Toss - Ne Toss nu Sollu!
