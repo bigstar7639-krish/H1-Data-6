@@ -1386,3 +1386,6 @@ A: 6 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of the following is not a real Pokémon?
 A: Luminid - Entertainment: Video Games
+Knowledge Quiz
+Q: Prior to 2018, which car company is the only Japanese company which won the 24 Hours of Le Mans?
+A: Mazda - Sports
