@@ -1308,3 +1308,6 @@ A: JavaScript - Science: Computers
 Knowledge Quiz
 Q: Who patented a steam engine that produced continuous rotary motion?
 A: James Watt - Science: Gadgets
+Knowledge Quiz
+Q: According to the United States' CDC, one in how many Americans die annually due to smoking?
+A: Five - General Knowledge
