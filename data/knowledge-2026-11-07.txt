@@ -1228,3 +1228,6 @@ Knowledge 1943 - Pyramids - Hey buddy! 😄
 Knowledge Quiz
 Q: Where was Napoleon Bonaparte born?
 A: Corsica - History
+Knowledge Quiz
+Q: Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?
+A: Hewlett-Packard - General Knowledge
