@@ -1133,3 +1133,6 @@ A: John Ratzenberger - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: In the "Call Of Duty: Zombies" map "Origins", how many numbered power generators are there?
 A: 6 - Entertainment: Video Games
+Knowledge Quiz
+Q: Which greek mathematician ran through the streets of Syracuse naked while shouting "Eureka" after discovering the principle of displacement?
+A: Archimedes - Science: Mathematics
