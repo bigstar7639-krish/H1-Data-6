@@ -1032,3 +1032,6 @@ A: Utah, Colorado, Arizona, New Mexico - Geography
 Knowledge Quiz
 Q: The Harvard architecture for micro-controllers added which additional bus?
 A: Instruction - Science: Computers
+Knowledge Quiz
+Q: What is the unit of electrical capacitance?
+A: Farad - Science & Nature
