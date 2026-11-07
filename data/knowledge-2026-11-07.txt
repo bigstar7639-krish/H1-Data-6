@@ -1200,3 +1200,6 @@ A: The Lord of the Rings - Entertainment: Books
 Knowledge Quiz
 Q: What was the religion of famous singer "Freddie Mercury"?
 A: Zoroastrianism - Celebrities
+Knowledge Quiz
+Q: What is Solid Snake's real name?
+A: David - Entertainment: Video Games
