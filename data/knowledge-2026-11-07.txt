@@ -1475,3 +1475,6 @@ A: DJ_Hyperfresh - Entertainment: Video Games
 Knowledge Quiz
 Q: In the "Jurassic Park" universe, when did "Jurassic Park: San Diego" begin construction?
 A: 1985 - Entertainment: Film
+Knowledge Quiz
+Q: What is the capital of the American state of Arizona?
+A: Phoenix - Geography
