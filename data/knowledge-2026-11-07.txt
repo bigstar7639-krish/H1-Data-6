@@ -1102,3 +1102,6 @@ A: Pacific - Geography
 Knowledge Quiz
 Q: The Internet Meme "All your base are belong to us" is based on the poorly translated English Version of which Video Game?
 A: Zero Wing - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of the following characters were considered for inclusion in Super Smash Bros. Melee?
+A: Lucas - Entertainment: Video Games
