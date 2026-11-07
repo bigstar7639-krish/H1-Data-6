@@ -1115,3 +1115,5 @@ Emotion Q 1723 - excited?
 Aira: Excited ah! Sollu!
 Talk 1724 - Pyramids pathi pesalama? Sollu!
 Reading 1725 - Alchemist!
+Coding Q 1726 - App eppadi pannurathu?
+Aira: App - Idea - Design - Code!
