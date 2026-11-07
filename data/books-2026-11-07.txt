@@ -30,3 +30,4 @@ hin - in.gov.bih.gazette.2011-08-25.439 - Bihar Gazette, 2011-08-25, Extra Ordin
 hin - in.gov.bih.gazette.2016-02-01.86 - Bihar Gazette, 2016-02-01, Extra Ordinary
 kan - in.gazette.karnataka_eo.2020-08-06.139 - Karnataka ExtraOrdinary Gazette, 2020-08-06, Extra Ordinary, Part III
 kan - in.gazette.karnataka_d.2021-07-09.2721 - Karnataka Daily Gazette, 2021-07-09, Daily
+kan - in.gazette.karnataka_eo.2022-02-17.32.2021-22 - Karnataka ExtraOrdinary Gazette, 2022-02-17, Extra Ordinary, Part III
