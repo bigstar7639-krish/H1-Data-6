@@ -428,3 +428,5 @@ Story 1926
 Oru delhi la oru farmer irunthan! Daily padichan pannan! Oru naal friend kedaichuchu! Life maariduchu!
 Pazhamozhi 1927 - Sontha Kaal la Ninnu - Jeyippa!
 Smart Q 1928 - Angry la eppadi jeyikkarathu?
+Coding Q 1929 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
