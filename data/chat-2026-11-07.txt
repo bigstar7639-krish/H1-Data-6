@@ -565,3 +565,5 @@ Aira: Kovam ah? Deep breath edu! 😤
 Vocab 2003 - Kindness = Anbu 📚
 Coding Q 2004 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Coding Q 2005 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
