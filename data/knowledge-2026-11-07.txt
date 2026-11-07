@@ -1402,3 +1402,6 @@ A: Fred Flintstone - Entertainment: Television
 Knowledge Quiz
 Q: Which of these automotive brands originated in Sweden?
 A: Volvo - Vehicles
+Knowledge Quiz
+Q: Which of the following carbonated soft drinks were introduced first?
+A: Dr. Pepper - General Knowledge
