@@ -951,3 +951,6 @@ Knowledge 1747 - Eiffel Tower - **Eiffel Tower**-ஐப் பற்றி ச�
 Knowledge Quiz
 Q: With which Greek philosopher would you associate the phrase, "I know that I know nothing"?
 A: Socrates - History
+Knowledge Quiz
+Q: Who is often called "the Maestro" in the men's tennis circuit?
+A: Roger Federer - Sports
