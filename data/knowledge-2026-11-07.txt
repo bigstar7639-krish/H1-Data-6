@@ -1041,3 +1041,6 @@ A: Cheetah - Science: Computers
 Knowledge Quiz
 Q: Which actor portrays "Walter White" in the series "Breaking Bad"?
 A:  Bryan Cranston - Entertainment: Television
+Knowledge Quiz
+Q: In Digimon, what is the Japanese name for the final evolutionary stage?
+A: Ultimate - Entertainment: Japanese Anime & Manga
