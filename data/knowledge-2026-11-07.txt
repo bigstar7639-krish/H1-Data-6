@@ -345,3 +345,6 @@ A: Quentin Tarantino - Entertainment: Film
 Knowledge Quiz 🧠
 Q: What was the first company to use the term &quot;Golden Master&quot;?
 A: Apple - Science: Computers
+Knowledge Quiz 🧠
+Q: Which actor played the main character in the 1990 film &quot;Edward Scissorhands&quot;?
+A: Johnny Depp - Entertainment: Film
