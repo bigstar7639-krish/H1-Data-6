@@ -1340,3 +1340,4 @@ Story 1833
 Oru delhi la oru raja irunthan! Daily padichan pannan! Oru naal treasure kedaichuchu! Life maariduchu!
 Q 1834 - Ne Sea la eppadi improve panna mudiyum?
 Quote 1835 - Daily try pannu - Jeyichiduva! - Aira
+Game 1836 - Quiz: Python eppo uruvaachu? Answer: 1991!
