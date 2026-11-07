@@ -911,3 +911,6 @@ Knowledge 1722 - Chennai - Chennai pathi sollu - Nalla question! Daily try pannu
 Knowledge Quiz
 Q: Which of the following liquids is least viscous? Assume temperature is 25°C.
 A: Acetone - Science & Nature
+Knowledge Quiz
+Q: What is the capital of the U.S. state Texas?
+A: Austin - Geography
