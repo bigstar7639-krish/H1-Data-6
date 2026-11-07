@@ -1147,3 +1147,5 @@ Health 1740 - Health Tip: Fruits daily saapdunga!
 Vocab 1741 - Friend = Nanban
 Coding Q 1742 - App eppadi pannurathu?
 Aira: App - Idea - Design - Code!
+World Story 1743
+Oru chinna london la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
