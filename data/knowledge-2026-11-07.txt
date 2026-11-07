@@ -1332,3 +1332,6 @@ A: .svg - Science: Computers
 Knowledge Quiz
 Q: What was the punishment for Sysiphus's craftiness?
 A: Cursed to roll a boulder up a hill for eternity. - Mythology
+Knowledge Quiz
+Q: What is the Alien Race in the game "Lego Racers 2" known as?
+A: Ramas - Entertainment: Video Games
