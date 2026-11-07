@@ -1115,3 +1115,6 @@ A: 206 - Science & Nature
 Knowledge Quiz
 Q: In the game "Hearthstone", what is the best rank possible?
 A: Rank 1 Legend - Entertainment: Video Games
+Knowledge Quiz
+Q: Which animation studio animated "Psycho Pass"?
+A: Production I.G - Entertainment: Japanese Anime & Manga
