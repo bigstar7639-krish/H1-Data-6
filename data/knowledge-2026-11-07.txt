@@ -1093,3 +1093,6 @@ A: Daedalus - Mythology
 Knowledge Quiz
 Q: Which of these island countries is located in the Caribbean?
 A: Barbados - Geography
+Knowledge Quiz
+Q: What are the smallest blood vessels in the human body?
+A: Capillaries - Science & Nature
