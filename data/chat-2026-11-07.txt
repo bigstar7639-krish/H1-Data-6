@@ -162,3 +162,4 @@ Q 1770 - Ne Teacher la eppadi improve panna mudiyum?
 Talk 1771 - Flower pathi pesalama? Sollu! 💬
 World Story 1772
 Oru chinna oor la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Game 1773 - Dice - Ne Dice nu Sollu! 🎮
