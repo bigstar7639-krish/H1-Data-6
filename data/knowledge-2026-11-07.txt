@@ -1314,3 +1314,6 @@ A: Five - General Knowledge
 Knowledge Quiz
 Q: In the survival horror game, "Cry of Fear," what was the name of Simon's close friend/potential love interest?
 A: Sophie - Entertainment: Video Games
+Knowledge Quiz
+Q: According to Sherlock Holmes, "If you eliminate the impossible, whatever remains, however improbable, must be the..."
+A: Truth - General Knowledge
