@@ -1329,3 +1329,6 @@ A: Poison Potato - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: What is the most preferred image format used for logos in the Wikimedia database?
 A: .svg - Science: Computers
+Knowledge Quiz
+Q: What was the punishment for Sysiphus's craftiness?
+A: Cursed to roll a boulder up a hill for eternity. - Mythology
