@@ -1,4 +1,3 @@
-Joke 1685
 Teacher: Yen late? Student: School Ahead board! 😂
 Movie 1686 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Recipe 1687 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super! 🍔
@@ -1998,3 +1997,4 @@ Q 2214 - Ne Dream la eppadi improve panna mudiyum?
 Emotion Q 2215 - sad?
 Aira: Paravalla! Aira irukka - Pesu!
 Thirukkural 2216 - Kattrathu - Kai Mann Alavu! - Thirukkural
+Thirukkural 2217 - Anbu - Ellam Tharum! - Thirukkural
