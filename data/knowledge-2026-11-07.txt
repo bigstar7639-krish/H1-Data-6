@@ -1090,3 +1090,6 @@ A: Dr. Wily - Entertainment: Video Games
 Knowledge Quiz
 Q: Who is the father of Icarus, who flew too close to the sun?
 A: Daedalus - Mythology
+Knowledge Quiz
+Q: Which of these island countries is located in the Caribbean?
+A: Barbados - Geography
