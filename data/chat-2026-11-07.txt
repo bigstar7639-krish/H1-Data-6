@@ -1800,3 +1800,4 @@ Coding Q 2091 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Quote 2092 - Daily try pannu - Jeyichiduva! - Aira
 Business Idea 2093 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
+Pazhamozhi 2094 - Aalai Paathu - Aadi Paaru!
