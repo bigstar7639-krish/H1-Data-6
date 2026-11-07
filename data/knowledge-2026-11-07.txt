@@ -1062,3 +1062,6 @@ A: 7 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which genre of music is John Coltrane primarily associated with?
 A: Jazz - Entertainment: Music
+Knowledge Quiz
+Q: Which one is NOT the function of engine oil in car engines?
+A: Combustion - Vehicles
