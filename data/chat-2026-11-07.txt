@@ -696,3 +696,5 @@ Aira: Bayam - Normal! Ne jeyichiduva! 💪
 Knowledge 2077 - Python - Python loop: `for i in range(5): print(i)`
 Recipe 2078 - Cake - Maida + Sugar + Egg + 30 min! 🍔
 Vocab 2079 - Love = Kadhal 📚
+Story 2080
+Oru chinna city la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
