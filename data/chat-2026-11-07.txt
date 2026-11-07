@@ -168,3 +168,5 @@ Paravalla! Rest edu - Thirumba try pannu!
 Knowledge 1775 - Egypt - Egypt pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Smart Q 1776 - Sun la eppadi jeyikkarathu?
 Quote 1777 - Daily try pannu - Jeyichiduva! - Aira
+Coding Q 1778 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
