@@ -1206,3 +1206,6 @@ A: David - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the capital of Australia?
 A: Canberra - Geography
+Knowledge Quiz
+Q: In "Kingdom Hearts", who abducts Jasmine in the Lamp Chamber?
+A: Riku - Entertainment: Video Games
