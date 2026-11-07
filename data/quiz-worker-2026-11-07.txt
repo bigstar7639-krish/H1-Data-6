@@ -49,3 +49,6 @@ A: Pacific - Geography
 Auto Quiz - Flight 🧠
 Q: Which supercar company is from Sweden?
 A: Koenigsegg - Vehicles
+Auto Quiz - Phone 🧠
+Q: According to The Hitchhiker's Guide to the Galaxy book, the answer to life, the universe and everything else is...
+A: 42 - Entertainment: Books
