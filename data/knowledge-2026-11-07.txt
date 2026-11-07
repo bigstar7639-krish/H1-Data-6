@@ -1392,3 +1392,6 @@ A: Mazda - Sports
 Knowledge Quiz
 Q: Who is the god of war in Polynesian mythology?
 A: 'Oro - Mythology
+Knowledge Quiz
+Q: In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?
+A: Final - Science: Computers
