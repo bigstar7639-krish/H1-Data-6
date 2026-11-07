@@ -1442,3 +1442,5 @@ World Story 1888
 Oru chinna city la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Vocab 1889 - Kindness = Anbu
 Game 1890 - Coin Toss - Ne Toss nu Sollu!
+Story 1891
+Oru madurai la oru farmer irunthan! Daily try pannan pannan! Oru naal magic kedaichuchu! Life maariduchu!
