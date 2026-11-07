@@ -1767,3 +1767,4 @@ Game 2076 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 2077 - Coin Toss - Ne Toss nu Sollu!
 Coding Q 2078 - React la component enna?
 Aira: React component - Chinna piece!
+Pazhamozhi 2079 - Aalai Paathu - Aadi Paaru!
