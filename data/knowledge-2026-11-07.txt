@@ -1481,3 +1481,6 @@ A: Phoenix - Geography
 Knowledge Quiz
 Q: What is the equation for the area of a sphere?
 A: (4/3)πr^3 - Science: Mathematics
+Knowledge Quiz
+Q: What breed of dog was Marley in the film "Marley & Me" (2008)?
+A: Labrador Retriever - Entertainment: Film
