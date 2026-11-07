@@ -530,3 +530,5 @@ Emotion Q 1987 - sad?
 Aira: Paravalla! Aira irukka - Pesu! ❤
 Coding Q 1988 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+World Story 1989
+Oru chinna village la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
