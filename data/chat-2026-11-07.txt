@@ -105,3 +105,5 @@ Reading 1736 - Python Crash Course! 📚
 Vocab 1737 - Peace = Amaithi 📚
 Quote 1738 - Daily try pannu - Jeyichiduva! - Aira
 Smart Q 1739 - Friendship la eppadi jeyikkarathu?
+Coding Q 1740 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
