@@ -46,3 +46,6 @@ A: Washington D.C - Geography
 Auto Quiz - Train 🧠
 Q: Which ocean borders the west coast of the United States?
 A: Pacific - Geography
+Auto Quiz - Flight 🧠
+Q: Which supercar company is from Sweden?
+A: Koenigsegg - Vehicles
