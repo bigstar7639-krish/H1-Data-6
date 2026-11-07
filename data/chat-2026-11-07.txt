@@ -1492,3 +1492,4 @@ Business Idea 1921 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Aira AI: Python loop: `for i in range(5): print(i)`
 Smart Q 1923 - Motivation la eppadi jeyikkarathu?
 Smart Q 1924 - Spiritual la eppadi jeyikkarathu?
+Kavithai 1925 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
