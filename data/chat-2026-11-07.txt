@@ -773,3 +773,4 @@ Vocab 2112 - Kindness = Anbu 📚
 Emotion Q 2113 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva! 💪
 Vocab 2114 - Dream = Kanavu 📚
+Game 2115 - Dice - Ne Dice nu Sollu! 🎮
