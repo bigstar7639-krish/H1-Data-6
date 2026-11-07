@@ -91,3 +91,6 @@ A: Air - Entertainment: Music
 Auto Quiz - God 🧠
 Q: What is the name of the City in Saints Row The Third?
 A: Steelport - Entertainment: Video Games
+Auto Quiz - Nature 🧠
+Q: How many rooms are there, not including the hallways and the set of stairs, in the board game "Clue"?
+A: 9 - Entertainment: Board Games
