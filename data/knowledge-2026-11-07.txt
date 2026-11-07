@@ -1493,3 +1493,6 @@ A: Iberian Peninsula - Geography
 Knowledge Quiz
 Q: Where in the human body is the Pineal Gland located?
 A: Brain - Science & Nature
+Knowledge Quiz
+Q: How many books are in Euclid's Elements of Geometry?
+A: 13 - Science: Mathematics
