@@ -122,3 +122,5 @@ Vocab 1750 - Peace = Amaithi 📚
 Thirukkural 1751 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Story 1752
 Oru chinna tokyo la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Emotion Q 1753 - bored?
+Aira: Bored ah? Joke sollattuma? 😂
