@@ -909,3 +909,5 @@ Fact 86 - Tamil - 2000+ varusha mozhi!
 Fact 87 - Honey - 3000 varusham kedathu!
 Q 2190 - Computer pathi oru story kekkura?
 Q 2191 - Ne Earth la eppadi improve panna mudiyum?
+Joke 2192
+Why bike sad? Petrol illa!
