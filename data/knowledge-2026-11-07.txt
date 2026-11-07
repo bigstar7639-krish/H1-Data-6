@@ -1121,3 +1121,6 @@ A: Production I.G - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: What was Radiohead's first album?
 A: Pablo Honey - Entertainment: Music
+Knowledge Quiz
+Q: Which actor played the main character in the 1990 film "Edward Scissorhands"?
+A: Johnny Depp - Entertainment: Film
