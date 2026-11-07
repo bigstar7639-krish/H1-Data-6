@@ -45,3 +45,4 @@ Horse - War Horse
 Horse - On a pale horse
 Bike - Franklin Rides a Bike (Franklin)
 Bike - Duck on a Bike
+Bike - The bike ride
