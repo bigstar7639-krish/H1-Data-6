@@ -1038,3 +1038,6 @@ A: Farad - Science & Nature
 Knowledge Quiz
 Q: Released in 2001, the first edition of Apple's Mac OS X operating system (version 10.0) was given what animal code name?
 A: Cheetah - Science: Computers
+Knowledge Quiz
+Q: Which actor portrays "Walter White" in the series "Breaking Bad"?
+A:  Bryan Cranston - Entertainment: Television
