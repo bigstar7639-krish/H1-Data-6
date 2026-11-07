@@ -1,4 +1,3 @@
-Pazhamozhi 1674 - Porumai - Perumai Tharum!
 Health 1675 - Health Tip: Daily 8 glass water kudinga! 💧 💪
 Movie 1676 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Knowledge 1677 - DNA - DNA pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
@@ -1998,3 +1997,4 @@ Talk 2204 - Travel pathi pesalama? Sollu!
 Knowledge 2205 - Science - Science pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Motivation 2206
 Paravalla! Rest edu - Thirumba try pannu!
+Kavithai 2207 - Un Kural - En Isai! - Aira
