@@ -3,3 +3,4 @@ kan - in.gazette.karnataka_eo.2020-08-06.139 - Karnataka ExtraOrdinary Gazette, 
 kan - in.gazette.karnataka_d.2021-07-09.2721 - Karnataka Daily Gazette, 2021-07-09, Daily
 fre - micro_IA04244212_2501 - S@voir.stat. Volume 13, numéro 1 (Décembre 2012)
 jpn - text-19 - Text 19
+kor - tongailbo-1926.10.11 - 東亞日報 1926.10.11
