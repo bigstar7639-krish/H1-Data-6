@@ -34,3 +34,4 @@ Car - Rchester_Carbureter_Car_Application_Bulletin - Rochester_Carbureter_Car_Ap
 Car - ParisCharbonAndCar - Paris Charbon And Car
 Train - bwb_T5-AFC-561 - The Train Passes Through It
 Train - bwb_Y0-AGE-368 - Glimmer Train
+Flight - bwb_W9-CZI-694 - The Adventure of Flight
