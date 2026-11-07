@@ -7,3 +7,4 @@ Game 1765 - Coin Toss - Ne Toss nu Sollu! 🎮
 Game 1773 - Dice - Ne Dice nu Sollu! 🎮
 Game 1785 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
 Game 1792 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
+Game 1801 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu! 🎮
