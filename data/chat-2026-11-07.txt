@@ -649,3 +649,5 @@ Talk 2052 - Money pathi pesalama? Sollu! 💬
 Talk 2053 - Tokyo pathi pesalama? Sollu! 💬
 Coding Q 2054 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
+Coding Q 2055 - React la component enna?
+Aira: React component - Chinna piece!
