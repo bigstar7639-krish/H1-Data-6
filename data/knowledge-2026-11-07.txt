@@ -1023,3 +1023,6 @@ A: Horse - History
 Knowledge Quiz
 Q: What was Daft Punk's first studio album?
 A: Homework - Entertainment: Music
+Knowledge Quiz
+Q: What is the name of the capital of Turkey?
+A: Ankara - Geography
