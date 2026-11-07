@@ -733,3 +733,4 @@ Story 2090
 Oru chinna city la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Vocab 2091 - Love = Kadhal 📚
 Health 2092 - Health Tip: 7 mani neram thoongunga! 😴 💪
+Health 2093 - Health Tip: Daily 30 min walk ponga! 🚶 💪
