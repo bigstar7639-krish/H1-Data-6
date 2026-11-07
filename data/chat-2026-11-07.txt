@@ -1994,3 +1994,4 @@ Q 2201 - Coding pathi oru story kekkura?
 Thirukkural 2202 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Coding Q 2203 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Talk 2204 - Travel pathi pesalama? Sollu!
