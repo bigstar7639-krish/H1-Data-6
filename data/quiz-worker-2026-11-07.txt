@@ -97,3 +97,6 @@ A: 9 - Entertainment: Board Games
 Auto Quiz - Cat 🧠
 Q: Which of these holidays is NOT usually celebrated in the month of December?
 A: Thanksgiving - General Knowledge
+Auto Quiz - Dog 🧠
+Q: In "JoJo's Bizarre Adventure: Stardust Crusaders", what is the last name of the protagonist Jotaro?
+A: Kujo - Entertainment: Japanese Anime & Manga
