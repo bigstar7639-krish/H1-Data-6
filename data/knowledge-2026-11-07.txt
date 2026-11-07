@@ -1547,3 +1547,6 @@ A: 1526 - History
 Knowledge Quiz
 Q: What is the name of the school in the anime and manga "Gosick"?
 A: St. Marguerite - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: What was the first feature-length computer-animated movie?
+A: Toy Story - Entertainment: Film
