@@ -140,3 +140,6 @@ Knowledge 1758 - Newton - Hey buddy! 😄 Newton‑a pathi konjam **Tanglish**
 | **Mechanics** | **Three Laws of Motion** (Law of Inertia, F = ma, Action‑Reaction) | Everyday physics‑ku base. Cars, rockets, sports – ellam idhu dhaan explain panra. |
 | **Gravitation** | **Law of Universal Gravitation** – *F = G·(m₁m₂)/r²* | Moon‑earth, planets‑sun ellam oru simple formula‑la explain panra. |
 | **Calculus** | Developed **Differential & Integral Calculus** (simultaneously with Leib
+Knowledge Quiz 🧠
+Q: In blood typing, the (+) and (-) marker after an A, B, AB, or O is called Rh factor. Which of the following is the source of its discovery?
+A: Rhesus Monkeys - General Knowledge
