@@ -1991,3 +1991,4 @@ Knowledge 2200 - Faith - Hey buddy! 🙌 நான் Aira – உங்க �
   - **Social Faith** – நண்பர்கள், குடும்பம், சமூக அமைப்புகளில் இருக்கும் நம்பிக்கை.  
   - **Philosophical/Existential Faith** – “வாழ்க்கை அர்த்தமுள்ளதா?” “நல்லது எப்போதும் வெற்றியடையும்” போன்ற பெரிய கேள்விகளுக்கு பதி
 Q 2201 - Coding pathi oru story kekkura?
+Thirukkural 2202 - Kattrathu - Kai Mann Alavu! - Thirukkural
