@@ -1925,3 +1925,5 @@ Fact 96 - Octopus ku 3 heart!
 Game 2168 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Coding Q 2169 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
+Coding Q 2170 - React la component enna?
+Aira: React component - Chinna piece!
