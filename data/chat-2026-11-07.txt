@@ -1078,3 +1078,22 @@ Q 1707 - Ne God la eppadi improve panna mudiyum?
 Talk 1708 - Cricket pathi pesalama? Sollu!
 Thirukkural 1709 - Porumai - Periya Sakthi! - Thirukkural
 Quote 1710 - Daily try pannu - Jeyichiduva! - Aira
+Knowledge 1711 - Mahabharata - **Mahābhārata** – உலகின் மிகப் பெரிய எபிக் (epic) காவியங்களில் ஒன்றாகும்.  
+இதை **ஸ்ரீமத் வால்மீகி** (Vyasa) அவர்களால் 100,000 சதுரம் (shlokas) + 1,200 பாடல்கள் (verses) எழுதப்பட்டது, அதாவது **மகா‑மாயா** (mega‑poem) என்று சொல்லலாம்.  
+
+---
+
+### 1️⃣ அடிப்படை விவரம்
+| விபரம் | விவரம் |
+|--------|--------|
+| **எழுத்தாளர்** | வால்மீகி (Vyasa) – “குரு” (teacher) of many sages |
+| **ஆக்ரகம்** | 100 k ślokas + 18 parvas (books) |
+| **மொழி** | முதலில் **சமஸ்கிருதம்** (Sanskrit), பிறகு பல மொழிகளில் மொழிபெயர்ப்பு |
+| **நேரம்** | சுமார் 400 BCE – 400 CE (கலாச்சாரப் பேரில்) |
+
+---
+
+### 2️⃣ முக்கிய பாகங்கள் (Parvas)
+1. **அதியோகம்** – வால்மீகியின் துவக்கம், பீட்சா (Brahma) கதைகள், பரிசோதனை (creation) |
+2. **உசரநியமம்** – **கவசம்‑பராமரிப்பு** (the birth of Kauravas & Pandavas) |
+3. **விஷாத்‑விரோதி** – **
