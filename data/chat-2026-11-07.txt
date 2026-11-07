@@ -1867,3 +1867,4 @@ Paravalla! Rest edu - Thirumba try pannu!
 Vocab 2129 - Happy = Santhosham
 Talk 2130 - Internet pathi pesalama? Sollu!
 Q 2131 - Harry Potter pathi oru secret sollatta?
+Recipe 2132 - Cake - Maida + Sugar + Egg + 30 min!
