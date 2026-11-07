@@ -1077,3 +1077,4 @@ Teacher: Yen late? Student: School Ahead board!
 Q 1707 - Ne God la eppadi improve panna mudiyum?
 Talk 1708 - Cricket pathi pesalama? Sollu!
 Thirukkural 1709 - Porumai - Periya Sakthi! - Thirukkural
+Quote 1710 - Daily try pannu - Jeyichiduva! - Aira
