@@ -802,3 +802,6 @@ Knowledge 1661 - Plants - Hey friend! 🌱 Let’s talk about **plants** –
 |--------|---------------|----------------|
 | Roots | வேர் (Vēr) | Water & mineral absorption, anchoring. |
 | Stem | தண்டு (Thaṇḍu) | Transport of water, nutrients, and support
+Knowledge Quiz
+Q: Which of these is used to show that Earth spins on an axis? 
+A: Foucault Pendulum  - Science & Nature
