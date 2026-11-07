@@ -44,3 +44,4 @@ Horse - The Horse and His Boy
 Horse - War Horse
 Horse - On a pale horse
 Bike - Franklin Rides a Bike (Franklin)
+Bike - Duck on a Bike
