@@ -1471,3 +1471,4 @@ Knowledge 1903 - Harry Potter - **Hey buddy!**  நீங்கள் கே�
 Q 1904 - Money pathi oru story kekkura?
 Knowledge 1905 - Mahabharata - Mahabharata pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Recipe 1906 - Cake - Maida + Sugar + Egg + 30 min!
+Recipe 1907 - Snacks - Potato + Masala - Crispy!
