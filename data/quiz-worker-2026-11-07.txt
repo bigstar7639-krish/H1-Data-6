@@ -52,3 +52,6 @@ A: Koenigsegg - Vehicles
 Auto Quiz - Phone 🧠
 Q: According to The Hitchhiker's Guide to the Galaxy book, the answer to life, the universe and everything else is...
 A: 42 - Entertainment: Books
+Auto Quiz - Computer 🧠
+Q: Which city did the former NHL team "The Nordiques" originiate from?
+A: Quebec City - Sports
