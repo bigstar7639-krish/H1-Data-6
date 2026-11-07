@@ -1059,3 +1059,6 @@ A: Welcome to Miami - Entertainment: Music
 Knowledge Quiz
 Q: How many differently shaped Tetris pieces are there?
 A: 7 - Entertainment: Video Games
+Knowledge Quiz
+Q: Which genre of music is John Coltrane primarily associated with?
+A: Jazz - Entertainment: Music
