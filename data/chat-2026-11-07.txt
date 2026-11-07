@@ -1737,3 +1737,5 @@ Plants are **autotrophs** – they make their own food using **photosynthesis** 
 Health 2052 - Health Tip: Daily 8 glass water kudinga!
 Q 2053 - Dancing pathi oru secret sollatta?
 Movie 2054 - Leo - Vijay - Action!
+Story 2055
+Oru chinna sea la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
