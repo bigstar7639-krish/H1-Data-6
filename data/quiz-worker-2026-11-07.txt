@@ -55,3 +55,6 @@ A: 42 - Entertainment: Books
 Auto Quiz - Computer 🧠
 Q: Which city did the former NHL team "The Nordiques" originiate from?
 A: Quebec City - Sports
+Auto Quiz - Book 🧠
+Q: Which gaming console is developed by Sony?
+A: PlayStation - Science: Gadgets
