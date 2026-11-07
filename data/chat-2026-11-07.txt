@@ -109,3 +109,5 @@ Coding Q 1740 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Game 1741 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
 Talk 1742 - Ocean pathi pesalama? Sollu! 💬
+World Story 1743
+Oru chinna chennai la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
