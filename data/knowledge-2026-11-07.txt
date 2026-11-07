@@ -1511,3 +1511,6 @@ A: Liquid Snake - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the largest living organism currently known to man?
 A: Honey Fungus - Science & Nature
+Knowledge Quiz
+Q: According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:
+A: A' + B' - Science: Computers
