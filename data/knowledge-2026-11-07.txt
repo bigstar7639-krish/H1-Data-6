@@ -1243,3 +1243,6 @@ A: Sasha - Entertainment: Video Games
 Knowledge Quiz
 Q: Who created Ultron of Earth-616?
 A: Henry Pym - Entertainment: Comics
+Knowledge Quiz
+Q: In "The Lord of the Rings," who is the owner of Asfaloth, the horse which brings Frodo to Rivendell?
+A: Glorfindel - Entertainment: Books
