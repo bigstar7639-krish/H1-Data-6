@@ -1293,3 +1293,6 @@ A: Leif - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the name of the virus in "Metal Gear Solid 1"?
 A: FOXDIE - Entertainment: Video Games
+Knowledge Quiz
+Q: In "Resident Evil 2", what is Leon Kennedy's middle name?
+A: Scott - Entertainment: Video Games
