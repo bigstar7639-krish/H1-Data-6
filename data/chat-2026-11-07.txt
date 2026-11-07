@@ -1197,3 +1197,4 @@ Vocab 1764 - Peace = Amaithi
 Reading 1765 - Thirukkural - Valluvar!
 Smart Q 1766 - Faith la eppadi jeyikkarathu?
 Pazhamozhi 1767 - Sontha Kaal la Ninnu - Jeyippa!
+Game 1768 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
