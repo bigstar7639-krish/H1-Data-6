@@ -618,3 +618,5 @@ Game 2034 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
 Movie 2035 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 🎬
 Pazhamozhi 2036 - Aalai Paathu - Aadi Paaru!
 Q 2037 - Un life la Rain eppadi irukku?
+Coding Q 2038 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
