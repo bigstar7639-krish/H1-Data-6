@@ -1796,3 +1796,5 @@ Health 2088 - Yoga Tip: Daily 5 min deep breath edu!
 Vocab 2089 - Kindness = Anbu
 Motivation 2090
 Paravalla! Rest edu - Thirumba try pannu!
+Coding Q 2091 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
