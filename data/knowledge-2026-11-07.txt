@@ -432,3 +432,6 @@ A: Shamir - Science: Computers
 Knowledge Quiz 🧠
 Q: During the Wars of the Roses (1455 - 1487) which Englishman was dubbed &quot;the Kingmaker&quot;?
 A: Richard Neville - History
+Knowledge Quiz 🧠
+Q: What nationality was the surrealist painter Salvador Dali?
+A: Spanish - Art
