@@ -1317,3 +1317,6 @@ A: Sophie - Entertainment: Video Games
 Knowledge Quiz
 Q: According to Sherlock Holmes, "If you eliminate the impossible, whatever remains, however improbable, must be the..."
 A: Truth - General Knowledge
+Knowledge Quiz
+Q: In what year did "The Big Bang Theory" debut on CBS?
+A: 2007 - Entertainment: Television
