@@ -1708,3 +1708,4 @@ Quote 2039 - Daily try pannu - Jeyichiduva! - Aira
 Reading 2040 - Bharathiyar Kavithaigal!
 Game 2041 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Talk 2042 - Confidence pathi pesalama? Sollu!
+Q 2043 - Game pathi oru secret sollatta?
