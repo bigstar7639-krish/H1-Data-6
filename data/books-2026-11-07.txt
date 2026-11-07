@@ -28,3 +28,4 @@ jpn - text-19 - Text 19
 ara - write.ass - ‎⁨الرد على جهالات المتعصب لأوروبا في أصول التاريخ ومنهجه.⁩
 hin - in.gov.bih.gazette.2011-08-25.439 - Bihar Gazette, 2011-08-25, Extra Ordinary
 hin - in.gov.bih.gazette.2016-02-01.86 - Bihar Gazette, 2016-02-01, Extra Ordinary
+kan - in.gazette.karnataka_eo.2020-08-06.139 - Karnataka ExtraOrdinary Gazette, 2020-08-06, Extra Ordinary, Part III
