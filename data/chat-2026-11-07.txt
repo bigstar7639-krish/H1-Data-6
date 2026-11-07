@@ -64,3 +64,4 @@ Talk 1717 - Psychology pathi pesalama? Sollu! 💬
 Coding Q 1718 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Movie 1719 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 🎬
+Recipe 1720 - Snacks - Potato + Masala - Crispy! 🍔
