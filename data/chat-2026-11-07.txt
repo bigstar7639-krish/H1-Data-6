@@ -734,3 +734,5 @@ Oru chinna city la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana 
 Vocab 2091 - Love = Kadhal 📚
 Health 2092 - Health Tip: 7 mani neram thoongunga! 😴 💪
 Health 2093 - Health Tip: Daily 30 min walk ponga! 🚶 💪
+Story 2094
+Oru city la oru student irunthan! Daily pray pannaan pannan! Oru naal dream kedaichuchu! Life maariduchu!
