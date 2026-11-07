@@ -1240,3 +1240,6 @@ A: Stairs - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the name of Team Fortress 2's Heavy Weapons Guy's minigun?
 A: Sasha - Entertainment: Video Games
+Knowledge Quiz
+Q: Who created Ultron of Earth-616?
+A: Henry Pym - Entertainment: Comics
