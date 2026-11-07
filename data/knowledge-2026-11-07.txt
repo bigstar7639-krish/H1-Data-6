@@ -1469,3 +1469,6 @@ A: 90 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of the following collision avoidance systems helps airplanes avoid colliding with each other?
 A: TCAS - Vehicles
+Knowledge Quiz
+Q: In the Nintendo Game Splatoon 2, what is Marina's screen name?
+A: DJ_Hyperfresh - Entertainment: Video Games
