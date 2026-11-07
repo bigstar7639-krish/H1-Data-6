@@ -474,3 +474,6 @@ A: Groovy. - Entertainment: Film
 Knowledge Quiz 🧠
 Q: What is the speed of light in a vacuum?
 A: 299,792,458 m/s - Science &amp; Nature
+Knowledge Quiz 🧠
+Q: All of the following are classified as Finno-Ugric languages EXCEPT:
+A: Samoyedic - Geography
