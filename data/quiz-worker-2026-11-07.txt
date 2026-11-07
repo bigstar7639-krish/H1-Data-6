@@ -115,3 +115,6 @@ A: Catalan - General Knowledge
 Auto Quiz - Health 🧠
 Q: Which country did the Eureka Rebellion, an 1856 battle against colonial rule, take place in?
 A: Australia - History
+Auto Quiz - Music 🧠
+Q: According to The Hitchhiker's Guide to the Galaxy book, the answer to life, the universe and everything else is...
+A: 42 - Entertainment: Books
