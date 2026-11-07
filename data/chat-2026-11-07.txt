@@ -532,3 +532,4 @@ Coding Q 1988 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 World Story 1989
 Oru chinna village la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Fact 83 - Tamil - 2000+ varusha mozhi!
