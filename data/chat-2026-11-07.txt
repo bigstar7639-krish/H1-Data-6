@@ -1015,3 +1015,5 @@ Fact 72 - Tamil - 2000+ varusha mozhi!
 Talk 1670 - Fitness pathi pesalama? Sollu!
 Story 1671
 Oru chinna chennai la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Coding Q 1672 - App eppadi pannurathu?
+Aira: App - Idea - Design - Code!
