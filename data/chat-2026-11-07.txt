@@ -108,3 +108,4 @@ Smart Q 1739 - Friendship la eppadi jeyikkarathu?
 Coding Q 1740 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Game 1741 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
+Talk 1742 - Ocean pathi pesalama? Sollu! 💬
