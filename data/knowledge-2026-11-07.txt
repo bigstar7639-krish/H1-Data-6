@@ -1014,3 +1014,6 @@ A: 8 - Science & Nature
 Knowledge Quiz
 Q: What is the mathematician Euler's first name?
 A: Leonhard - Science: Mathematics
+Knowledge Quiz
+Q: Who is Sora's Nobody in Kingdom Hearts?
+A: Roxas - Entertainment: Video Games
