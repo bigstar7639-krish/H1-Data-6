@@ -1341,3 +1341,6 @@ A: The Beatles - Entertainment: Music
 Knowledge Quiz
 Q: The World Chess Championship in Chess, Act 1 is set in which Italian city?
 A: Merano - Entertainment: Musicals & Theatres
+Knowledge Quiz
+Q: Why was The Green Monster at Fenway Park was originally built?
+A: To prevent viewing games from outside the park. - Sports
