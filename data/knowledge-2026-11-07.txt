@@ -1171,3 +1171,6 @@ A: 4/4 - Entertainment: Music
 Knowledge Quiz
 Q: What is the name of the protagonist of Life Is Strange?
 A: Max Caulfield - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the name of the album released in 2014 by American band Maroon 5?
+A: V - Entertainment: Music
