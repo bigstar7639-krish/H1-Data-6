@@ -1541,3 +1541,6 @@ A: Fay Wray - Entertainment: Film
 Knowledge Quiz
 Q: In Left 4 Dead, what is the name of the virus, as designated by CEDA, that causes most humans to turn into the Infected?
 A: Green Flu - Entertainment: Video Games
+Knowledge Quiz
+Q: What year was the Italian firearms manufacturer Beretta founded?
+A: 1526 - History
