@@ -1323,3 +1323,6 @@ A: 2007 - Entertainment: Television
 Knowledge Quiz
 Q: In which English county is Stonehenge?
 A: Wiltshire - Geography
+Knowledge Quiz
+Q: In "Toriko", which of the following foods is knowingly compatible with Toriko?
+A: Poison Potato - Entertainment: Japanese Anime & Manga
