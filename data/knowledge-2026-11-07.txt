@@ -1438,3 +1438,6 @@ A: Cherries - General Knowledge
 Knowledge Quiz
 Q: Who made the discovery of X-rays?
 A: Wilhelm Conrad Röntgen - Science & Nature
+Knowledge Quiz
+Q: What is the capital of Scotland?
+A: Edinburgh - Geography
