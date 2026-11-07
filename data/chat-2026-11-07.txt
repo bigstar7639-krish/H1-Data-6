@@ -268,3 +268,4 @@ Vocab 1840 - Dream = Kanavu 📚
 Reading 1841 - Alchemist! 📚
 Thirukkural 1842 - Anbu - Ellam Tharum! - Thirukkural
 Thirukkural 1843 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
+Game 1844 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu! 🎮
