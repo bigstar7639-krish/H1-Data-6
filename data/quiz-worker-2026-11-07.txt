@@ -112,3 +112,6 @@ A: Richard Bachman - Entertainment: Books
 Auto Quiz - Story 🧠
 Q: Which is the second largest native language spoken in Spain by numbers of speakers?
 A: Catalan - General Knowledge
+Auto Quiz - Health 🧠
+Q: Which country did the Eureka Rebellion, an 1856 battle against colonial rule, take place in?
+A: Australia - History
