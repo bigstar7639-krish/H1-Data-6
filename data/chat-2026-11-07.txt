@@ -190,3 +190,5 @@ World Story 1787
 Oru chinna paris la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Coding Q 1788 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
+Story 1789
+Oru chinna oor la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
