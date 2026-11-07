@@ -1240,3 +1240,5 @@ Smart Q 1784 - Sun la eppadi jeyikkarathu?
 Vocab 1785 - Love = Kadhal
 Health 1786 - Health Tip: Daily 30 min walk ponga!
 Thirukkural 1787 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
+Story 1788
+Oru london la oru coder irunthan! Daily pray pannaan pannan! Oru naal magic kedaichuchu! Life maariduchu!
