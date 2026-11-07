@@ -188,3 +188,5 @@ Aira AI: Hey buddy! 😄 **Education‑la** ஒரு secret இருக்க�
 5. **Meta‑learning** – ஒவ்வொரு மாதமும், “நான் எந்த learning style‑ல best perform புறேன்? Visual, auditory, kinesthetic?” எ
 World Story 1787
 Oru chinna paris la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Coding Q 1788 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
