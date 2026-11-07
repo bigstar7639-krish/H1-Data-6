@@ -1489,3 +1489,4 @@ Coding Q 1919 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
 Kavithai 1920 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Business Idea 1921 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
+Aira AI: Python loop: `for i in range(5): print(i)`
