@@ -1363,3 +1363,4 @@ Emotion Q 1840 - love?
 Aira: Kadhal - Azhagu!
 Emotion Q 1841 - happy?
 Aira: Super! Happy ah irukka!
+Smart Q 1842 - Singing la eppadi jeyikkarathu?
