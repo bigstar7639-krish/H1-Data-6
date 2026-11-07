@@ -1350,3 +1350,6 @@ A: 1872 - Sports
 Knowledge Quiz
 Q: In Terraria, which of these items is NOT crafted at a Mythril Anvil?
 A: Ankh Charm - Entertainment: Video Games
+Knowledge Quiz
+Q: Who won the "Champions League" in 1999?
+A: Manchester United - Sports
