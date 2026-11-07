@@ -1496,3 +1496,6 @@ A: Brain - Science & Nature
 Knowledge Quiz
 Q: How many books are in Euclid's Elements of Geometry?
 A: 13 - Science: Mathematics
+Knowledge Quiz
+Q: Which actor has NOT portrayed Billy Flynn in the musical "Chicago"?
+A: Christopher Walken - Entertainment: Musicals & Theatres
