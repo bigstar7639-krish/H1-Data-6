@@ -702,3 +702,23 @@ Emotion Q 2081 - excited?
 Aira: Excited ah! Sollu! 🎉
 Motivation 2082
 Paravalla! Rest edu - Thirumba try pannu!
+Knowledge 2083 - Climate - Hey buddy! 🌍 **Climate**-ஐ பற்றி கொஞ்சம் பேசலாம்.  
+
+---
+
+### 1. Climate என்ன?
+- **Climate** = ஒரு பகுதிக்கு பல வருடங்களில் (usually 30 years+) இருக்கும் average weather conditions.  
+- இது temperature, rainfall, humidity, wind patterns, மற்றும் seasons‑ஐ சேர்த்து சொல்கிறது.
+
+### 2. Climate vs Weather
+|   | **Weather** | **Climate** |
+|---|------------|------------|
+| **Time frame** | Hours‑days | Decades‑centuries |
+| **What we feel** | “இன்று மழை” | “இந்தப் பிராந்தியத்தில் வருடம் முழுவதும் அதிகமாக மழை வரும்” |
+| **Use** | Daily planning | Agriculture, city planning, policy making |
+
+### 3. Main Climate Zones (Köppen Classification)
+| Zone | Typical features | Example places |
+|------|-----------------|----------------|
+| **A – Tropical** | Warm all year, heavy rain | Amazon, Kerala |
+| *
