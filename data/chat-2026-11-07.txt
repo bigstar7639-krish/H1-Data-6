@@ -1048,3 +1048,4 @@ Story 1686
 Oru chinna sea la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Vocab 1687 - Success = Vetri
 Talk 1688 - Karma pathi pesalama? Sollu!
+Health 1689 - Health Tip: 7 mani neram thoongunga!
