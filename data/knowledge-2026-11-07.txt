@@ -1444,3 +1444,6 @@ A: Edinburgh - Geography
 Knowledge Quiz
 Q: During World War 2, with tank was the most fear by the allies?
 A: PanzerKampfwagen V Panther - Vehicles
+Knowledge Quiz
+Q: Which one of these scientists conducted the Gold Foil Experiment which concluded that atoms are mostly made of empty space?
+A: Ernest Rutherford - Science & Nature
