@@ -342,3 +342,6 @@ Knowledge 1919 - Diet - Hey buddy! நீங்க **diet** பற்றி �
 Knowledge Quiz 🧠
 Q: Who directed the Kill Bill movies?
 A: Quentin Tarantino - Entertainment: Film
+Knowledge Quiz 🧠
+Q: What was the first company to use the term &quot;Golden Master&quot;?
+A: Apple - Science: Computers
