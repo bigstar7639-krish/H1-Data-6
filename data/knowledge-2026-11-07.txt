@@ -1130,3 +1130,6 @@ A: John Kay - History
 Knowledge Quiz
 Q: Who is the only voice actor to have a speaking part in all of the Disney Pixar feature films? 
 A: John Ratzenberger - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: In the "Call Of Duty: Zombies" map "Origins", how many numbered power generators are there?
+A: 6 - Entertainment: Video Games
