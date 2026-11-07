@@ -1050,3 +1050,6 @@ A: Leopard - General Knowledge
 Knowledge Quiz
 Q: What event inspired The Cranberries song "Zombie" ?
 A: The Warrington Bombings - Entertainment: Music
+Knowledge Quiz
+Q: The mobile game "Jetpack Joyride" was released in what year? 
+A: 2011 - Entertainment: Video Games
