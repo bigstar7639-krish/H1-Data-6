@@ -809,3 +809,5 @@ Kavithai 2126 - Un Sirippu - En Vazhkai! - Aira
 Thirukkural 2127 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Movie 2128 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Vocab 2129 - Friend = Nanban 📚
+Coding Q 2130 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
