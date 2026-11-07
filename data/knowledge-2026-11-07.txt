@@ -1056,3 +1056,6 @@ A: 2011 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of these is NOT a name of an album released by American rapper Pitbull?
 A: Welcome to Miami - Entertainment: Music
+Knowledge Quiz
+Q: How many differently shaped Tetris pieces are there?
+A: 7 - Entertainment: Video Games
