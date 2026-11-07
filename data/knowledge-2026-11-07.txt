@@ -1249,3 +1249,6 @@ A: Glorfindel - Entertainment: Books
 Knowledge Quiz
 Q: Which celebrity announced his presidency in 2015?
 A: Kanye West - Celebrities
+Knowledge Quiz
+Q: In the anime series "Full Metal Alchemist", what do Alchemists consider the greatest taboo?
+A: Human Transmutation  - Entertainment: Japanese Anime & Manga
