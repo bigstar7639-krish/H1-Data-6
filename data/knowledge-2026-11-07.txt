@@ -526,3 +526,4 @@ Knowledge 2075 - AI - AI - Data paathu - Pattern!
 Knowledge Quiz 🧠
 Q: What was the name of the first MMORPG to popularize the genre?
 A: Ultima Online - Entertainment: Video Games
+Knowledge 2077 - Python - Python loop: `for i in range(5): print(i)`
