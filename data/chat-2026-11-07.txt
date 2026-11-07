@@ -1050,3 +1050,4 @@ Vocab 1687 - Success = Vetri
 Talk 1688 - Karma pathi pesalama? Sollu!
 Health 1689 - Health Tip: 7 mani neram thoongunga!
 Smart Q 1690 - Python la eppadi jeyikkarathu?
+Fact 73 - Tamil - 2000+ varusha mozhi!
