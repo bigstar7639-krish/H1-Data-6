@@ -1234,3 +1234,6 @@ A: Hewlett-Packard - General Knowledge
 Knowledge Quiz
 Q: What company developed the Xbox line of video game consoles?
 A: Microsoft - Entertainment: Video Games
+Knowledge Quiz
+Q: In the Team Fortress 2 canon, what did Shakespearicles NOT invent?
+A: Stairs - Entertainment: Video Games
