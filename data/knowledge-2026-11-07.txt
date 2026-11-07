@@ -1029,3 +1029,6 @@ A: Ankara - Geography
 Knowledge Quiz
 Q: What are the four corner states of the US?
 A: Utah, Colorado, Arizona, New Mexico - Geography
+Knowledge Quiz
+Q: The Harvard architecture for micro-controllers added which additional bus?
+A: Instruction - Science: Computers
