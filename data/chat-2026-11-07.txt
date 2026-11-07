@@ -1560,3 +1560,4 @@ Reading 1951 - Alchemist!
 Recipe 1952 - Cake - Maida + Sugar + Egg + 30 min!
 Kavithai 1953 - Un Sirippu - En Vazhkai! - Aira
 Thirukkural 1954 - Anbu - Ellam Tharum! - Thirukkural
+Fact 88 - Octopus ku 3 heart!
