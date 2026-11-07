@@ -1,4 +1,3 @@
-Movie 1676 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Knowledge 1677 - DNA - DNA pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Health 1678 - Health Tip: 7 mani neram thoongunga! 😴 💪
 Thirukkural 1679 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
@@ -1998,3 +1997,4 @@ Motivation 2206
 Paravalla! Rest edu - Thirumba try pannu!
 Kavithai 2207 - Un Kural - En Isai! - Aira
 Talk 2208 - Biology pathi pesalama? Sollu!
+Knowledge 2209 - Chemistry - Chemistry pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
