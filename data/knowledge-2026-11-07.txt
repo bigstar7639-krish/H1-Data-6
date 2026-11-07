@@ -1299,3 +1299,6 @@ A: Scott - Entertainment: Video Games
 Knowledge Quiz
 Q: Which Marvel superhero did Chris Evans play prior to his role as Captain America?
 A: Human Torch - Entertainment: Film
+Knowledge Quiz
+Q: Which movie served as the KTMA pilot episode for the show "Mystery Science Theater 3000"?
+A: The Green Slime - Entertainment: Television
