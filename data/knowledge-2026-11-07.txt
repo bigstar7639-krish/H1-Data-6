@@ -1478,3 +1478,6 @@ A: 1985 - Entertainment: Film
 Knowledge Quiz
 Q: What is the capital of the American state of Arizona?
 A: Phoenix - Geography
+Knowledge Quiz
+Q: What is the equation for the area of a sphere?
+A: (4/3)πr^3 - Science: Mathematics
