@@ -1344,3 +1344,6 @@ A: Merano - Entertainment: Musicals & Theatres
 Knowledge Quiz
 Q: Why was The Green Monster at Fenway Park was originally built?
 A: To prevent viewing games from outside the park. - Sports
+Knowledge Quiz
+Q: When was the first official international game played?
+A: 1872 - Sports
