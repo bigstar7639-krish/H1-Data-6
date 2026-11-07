@@ -1466,3 +1466,6 @@ A: Mermaid Transformation - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: In World of Warcraft's Mists of Pandaria expansion, What was the level cap?
 A: 90 - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of the following collision avoidance systems helps airplanes avoid colliding with each other?
+A: TCAS - Vehicles
