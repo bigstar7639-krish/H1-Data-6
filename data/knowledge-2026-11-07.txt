@@ -1347,3 +1347,6 @@ A: To prevent viewing games from outside the park. - Sports
 Knowledge Quiz
 Q: When was the first official international game played?
 A: 1872 - Sports
+Knowledge Quiz
+Q: In Terraria, which of these items is NOT crafted at a Mythril Anvil?
+A: Ankh Charm - Entertainment: Video Games
