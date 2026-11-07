@@ -1417,3 +1417,6 @@ A: 1980 - History
 Knowledge Quiz
 Q: In The Elder Scrolls V: Skyrim, who is the jester in the dark brotherhood?
 A: Cicero - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of these is not a wonder weapon in "Call Of Duty: Zombies"?
+A: R115 Resonator - Entertainment: Video Games
