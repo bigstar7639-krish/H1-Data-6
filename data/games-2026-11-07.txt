@@ -2,3 +2,4 @@ Game 1716 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ �
 Game 1725 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu! 🎮
 Game 1732 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil! 🎮
 Game 1741 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
+Game 1744 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu! 🎮
