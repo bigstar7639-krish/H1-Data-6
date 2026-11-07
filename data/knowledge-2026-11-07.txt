@@ -1011,3 +1011,6 @@ A: T-800 - Entertainment: Film
 Knowledge Quiz
 Q: How many planets make up our Solar System?
 A: 8 - Science & Nature
+Knowledge Quiz
+Q: What is the mathematician Euler's first name?
+A: Leonhard - Science: Mathematics
