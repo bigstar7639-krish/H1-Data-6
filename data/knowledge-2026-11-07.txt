@@ -1457,3 +1457,6 @@ A: BYD - Vehicles
 Knowledge Quiz
 Q: Which of the following languages does NOT use gender as a part of its grammar?
 A: Turkish - General Knowledge
+Knowledge Quiz
+Q: Josh Mansour is part of what NRL team?
+A: Penrith Panthers - Sports
