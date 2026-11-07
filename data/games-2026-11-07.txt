@@ -20,3 +20,4 @@ Game 2015 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil! 🎮
 Game 2034 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
 Game 2095 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu! 🎮
 Game 2104 - Coin Toss - Ne Toss nu Sollu! 🎮
+Game 2115 - Dice - Ne Dice nu Sollu! 🎮
