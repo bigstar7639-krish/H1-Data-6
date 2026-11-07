@@ -25,3 +25,4 @@ Elephant - isbn_9780972969802 - Khala Maninge: An African Fable--The Little Elep
 Tiger - tiger0000lave_w6q6 - Tiger
 Tiger - savetiger0000sara - Save the Tiger
 Lion - lion_7_0 - lion_7_0
+Lion - gov.uscourts.nysd.615426 - Lion Capital LLP v. Lion Investment Group LLC
