@@ -1835,3 +1835,4 @@ Knowledge 2113 - Bhagavad Gita - Bhagavad Gita pathi sollu - Nalla question! Dai
 Emotion Q 2114 - love?
 Aira: Kadhal - Azhagu!
 Reading 2115 - Ponniyin Selvan - Kalki!
+Fact 94 - Tamil - 2000+ varusha mozhi!
