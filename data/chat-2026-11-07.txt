@@ -1302,3 +1302,4 @@ Coding Q 1815 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Vocab 1816 - Love = Kadhal
 Vocab 1817 - Dream = Kanavu
+Game 1818 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
