@@ -1805,3 +1805,4 @@ Joke 2095
 Teacher: Yen late? Student: School Ahead board!
 Talk 2096 - Phone pathi pesalama? Sollu!
 Quote 2097 - Daily try pannu - Jeyichiduva! - Aira
+Reading 2098 - Python Crash Course!
