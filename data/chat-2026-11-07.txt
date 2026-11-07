@@ -740,3 +740,5 @@ Game 2095 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu! 🎮
 Knowledge 2096 - Ocean - Ocean pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Story 2097
 Oru chinna oor la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+World Story 2098
+Oru mountain la oru student irunthan! Daily coding pannan pannan! Oru naal hope kedaichuchu! Life maariduchu!
