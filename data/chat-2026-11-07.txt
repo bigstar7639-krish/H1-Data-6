@@ -1995,3 +1995,4 @@ Thirukkural 2202 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Coding Q 2203 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Talk 2204 - Travel pathi pesalama? Sollu!
+Knowledge 2205 - Science - Science pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
