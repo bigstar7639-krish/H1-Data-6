@@ -995,3 +995,6 @@ Knowledge 1769 - Confidence - **Confidence‑ஐப் பற்றி பேச
 Knowledge Quiz
 Q: Who composed the theme song for The Simpsons?
 A: Danny Elfman - Entertainment: Television
+Knowledge Quiz
+Q: What is the scientific name of the Common Chimpanzee?
+A: Pan troglodytes - Animals
