@@ -920,3 +920,6 @@ A: Enrico Pucci - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: When was Cadillac founded?
 A: 1902 - Vehicles
+Knowledge Quiz
+Q: What is the standard SI unit for luminous intensity?
+A: Candela - Science & Nature
