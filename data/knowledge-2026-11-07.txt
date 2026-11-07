@@ -116,3 +116,6 @@ A: Satelite - Entertainment: Japanese Anime &amp; Manga
 Knowledge Quiz 🧠
 Q: In the fictional SCP universe what &ldquo;Object Class&rdquo; is given to SCP&rsquo;s that cannot be contained.
 A: Apollyon - General Knowledge
+Knowledge Quiz 🧠
+Q: The &#039;64&#039; in the Nintendo-64 console refers to what?
+A: The bits in the CPU architecture - Entertainment: Video Games
