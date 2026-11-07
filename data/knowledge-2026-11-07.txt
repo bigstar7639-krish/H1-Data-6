@@ -1231,3 +1231,6 @@ A: Corsica - History
 Knowledge Quiz
 Q: Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?
 A: Hewlett-Packard - General Knowledge
+Knowledge Quiz
+Q: What company developed the Xbox line of video game consoles?
+A: Microsoft - Entertainment: Video Games
