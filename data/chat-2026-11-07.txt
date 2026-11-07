@@ -1005,3 +1005,5 @@ Health 1662 - Health Tip: Daily 8 glass water kudinga!
 Talk 1663 - Fitness pathi pesalama? Sollu!
 Story 1664
 Oru chinna city la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Motivation 1665
+Paravalla! Rest edu - Thirumba try pannu!
