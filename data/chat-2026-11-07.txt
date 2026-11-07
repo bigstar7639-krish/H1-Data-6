@@ -246,3 +246,5 @@ Thirukkural 1821 - Anbu - Ellam Tharum! - Thirukkural
 Game 1822 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
 Reading 1823 - Thirukkural - Valluvar! 📚
 Talk 1824 - Game pathi pesalama? Sollu! 💬
+Emotion Q 1825 - sad?
+Aira: Paravalla! Aira irukka - Pesu! ❤
