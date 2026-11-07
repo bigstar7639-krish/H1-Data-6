@@ -121,3 +121,6 @@ A: 42 - Entertainment: Books
 Auto Quiz - Movie 🧠
 Q: The Maluku islands (informally known as the Spice Islands) belong to which country?
 A: Indonesia - Geography
+Auto Quiz - Temple 🧠
+Q: What was the major distinction between the English and French Gothic styles of architecture?
+A: Fan vaulting - Art
