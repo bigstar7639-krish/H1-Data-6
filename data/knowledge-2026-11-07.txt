@@ -1035,3 +1035,6 @@ A: Instruction - Science: Computers
 Knowledge Quiz
 Q: What is the unit of electrical capacitance?
 A: Farad - Science & Nature
+Knowledge Quiz
+Q: Released in 2001, the first edition of Apple's Mac OS X operating system (version 10.0) was given what animal code name?
+A: Cheetah - Science: Computers
