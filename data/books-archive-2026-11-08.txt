@@ -188,3 +188,4 @@ Lion - bwb_S0-EKQ-267_13 - Funk & Wagnalls Standard Reference Encyclopedia Henry
 Lion - LeGrandMasqueJuifOuLneDansLaPeauDuLion193649p - Le Grand Masque Juif Ou L'âne Dans La Peau Du Lion 1936 ( 49p)
 Horse - bwb_T5-CWP-283 - stand to horse
 Horse - bwb_S0-BIX-602 - The QUARTER HORSE BREEDER
+Car - Rchester_Carbureter_Car_Application_Bulletin - Rochester_Carbureter_Car_Application_Bulletin
