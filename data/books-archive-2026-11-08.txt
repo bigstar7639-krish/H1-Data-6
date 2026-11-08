@@ -204,3 +204,5 @@ Book - outdoorbook0000unse_v2p3 - Outdoor Book
 Book - 1966brandbookofd0000will - The 1966 Brand Book of The Denver Pose of The Westerners Being Volume Twenty-Two
 Kavithai - cbfc-ecinepramaan-100030291800001735 - KADHAL KAVITHAI
 Kavithai - kankal-sollum-kavithai - Kankal Sollum Kavithai
+Thirukkural - thirukkural-solladaivoo-ccrd - Thirukkural Solladaivoo CCRD
+Thirukkural - TNLA-DB-7-1984-8-63-1-QH5_1984-03-23 - Thirukkural Research Laboratory at Valluvar Kottam
