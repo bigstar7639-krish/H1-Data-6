@@ -159,3 +159,6 @@ Cake - isbn_9781939429247 - I Want Chocolate Cake for Dinner! For Dinner: Let Nu
 Burger - bwb_T4-AJZ-274 - The Ham Burger Cookbook
 Burger - bub_gb_BzFJAAAAcAAJ - Der adelsüchtige Bürger; eine Poße mit Tanz untermischt nach dem Moliere
 Chocolate - isbn_9780615339702 - Chocolate Travel Guide: United States Edition 2010
+Chocolate - faithgriefpassch0000wall - Faith, Grief and Pass the Chocolate Pudding
+Fruit - bwb_T3-BSD-639 - so good with fruit
+Fruit - bwb_C0-ARO-969 - A Fruit Is Born
