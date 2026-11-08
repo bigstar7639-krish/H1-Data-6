@@ -258,3 +258,5 @@ River - bwb_S0-DRA-499 - alexander begg's red river journal other papers relativ
 River - roaringriverrang0000arth - Roaring River Range
 Sky - bwb_S0-BXG-241 - Eagle in the Sky
 Sky - bwb_S0-BGR-072 - Get Out Of My Sky
+Star - MEGASTARASMAISTOCADASDE2017_201712 - MEGA STAR AS MAIS TOCADAS DE 2017
+Star - DJStarVsDJPhanRemixVol02 - DJ Star Vs DJ Phan Remix Vol 02
