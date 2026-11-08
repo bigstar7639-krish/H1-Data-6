@@ -192,3 +192,6 @@ Car - Rchester_Carbureter_Car_Application_Bulletin - Rochester_Carbureter_Car_Ap
 Bike - bwb_S0-BCA-106 - Hit the Bike Trail
 Bike - tourdekentdaywor0000atki - Tour de Kent : the day the world's biggest bike race came to the Garden of England
 Car - fastcar0000murp - Fast car
+Train - bwb_KU-358-471 - last train from berlin
+Train - gettingherefroms0000pete - Getting Here: From a Seat on a Train to a Seat on the Bench
+Flight - bwb_C0-AQJ-013 - flight maneuvers complete programmed course
