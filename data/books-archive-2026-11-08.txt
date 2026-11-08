@@ -198,3 +198,7 @@ Flight - bwb_C0-AQJ-013 - flight maneuvers complete programmed course
 Flight - bwb_W9-BGH-193 - Training to fly military flight training 1907-1945
 Phone - isometric-gradient-3d-mobile-phone-background - isometric-gradient-3d-mobile-phone-background
 Phone - bitsavers_decvaxmicringsAHBT13ASEVAXVMSV4.0SRCLSTMCRFAHBT13A_1823093 - dec :: vax :: microfiche :: vms-source-listings :: AH-BT13A-SE VAX-VMS V4.0 SRC LST MCRF :: AH-BT13A-SE VAX-VMS V4.0 SRC LST MCRF :: 083 PHONE :: 002 PHONEREQ.REQ bw
+Computer - developmentofcom0000john - Development Of Computer Supplements To Calculus
+Computer - bestofcomputerfa0003jimw - The Best of the Computer Faires volume III
+Book - outdoorbook0000unse_v2p3 - Outdoor Book
+Book - 1966brandbookofd0000will - The 1966 Brand Book of The Denver Pose of The Westerners Being Volume Twenty-Two
