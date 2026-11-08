@@ -234,3 +234,6 @@ Dog - givedogbone0000okan_o9l6 - Give the dog a bone
 Dog - isbn_9780780780644 - A Dog Named Sam
 Food - lunchboxfood0000shar_x1h2 - Lunch Box Food
 Food - thomasfoodbevera0000rich - Thomas Food & Beverage Market Place 2006 (Thomas Food and Beverage Market Place)
+Cricket - bwb_KV-028-408 - It Isn't Cricket
+Cricket - politicsofsoutha0000gemm_j6v9 - The politics of South African cricket
+Space - perceptionextens0000ralp - Perception, Extension, And Enclosure Of Space
