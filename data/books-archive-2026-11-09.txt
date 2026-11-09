@@ -250,3 +250,7 @@ Horse - bwb_Y0-BYL-514 - The Manual of Horsemanship of the British Horse Society
 Horse - horsewalksintoba0000gros_e3j3 - A horse walks into a bar
 Bike - fourcornersworld0000spit - Four Corners world bike ride : 4 teams of 4 cyclists riding to England from Bolivia, Hong Kong, Zimbabwe and Australia
 Bike - twelvebabiesonbi0000dunn_c6g1 - Twelve babies on a bike : diary of a student midwife
+Car - Rchester_Carbureter_Car_Application_Bulletin - Rochester_Carbureter_Car_Application_Bulletin
+Car - ParisCharbonAndCar - Paris Charbon And Car
+Train - trainwithouttrac0000will - Train Without Tracks. Secrets of the Underground Railraod
+Train - bwb_T5-AFC-561 - The Train Passes Through It
