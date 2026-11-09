@@ -254,3 +254,5 @@ Car - Rchester_Carbureter_Car_Application_Bulletin - Rochester_Carbureter_Car_Ap
 Car - ParisCharbonAndCar - Paris Charbon And Car
 Train - trainwithouttrac0000will - Train Without Tracks. Secrets of the Underground Railraod
 Train - bwb_T5-AFC-561 - The Train Passes Through It
+Flight - bwb_W9-CZI-694 - The Adventure of Flight
+Flight - greatflightmptno0000unse - The Great Flight : MPT: No. 1
