@@ -198,3 +198,7 @@ Beach - SunnyBeachVox - Sunny Beach Vox
 Beach - isbn_9780965445238 - Sharehouse Confidential: Sex and the Single Life Inside an Epicurean Beach House
 Forest - tropicalforestec0000kapo - Tropical Forest Ecology and Mangement in the Asia-Pacific Region: Proceedings of Regional Workshop Help at Lae, Papua New Guinea (20 June- 1 July, 1988)
 Forest - bwb_T5-CWR-097 - a fool in the forest
+Desert - bwb_T5-CWS-098 - PEACE IN THE DESERT STORM
+Desert - bwb_Y0-BTH-805 - Brighams Young Dixie of the Desert
+Snow - the-straightest-track-through-the-snow-sermon-by-rev.-arthur-f.-fruhling - The Straightest Track Through the Snow, Sermon by Rev. Arthur F. Fruhling
+Snow - angelsinsnow0000dere - Angels in the Snow
