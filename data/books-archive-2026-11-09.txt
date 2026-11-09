@@ -152,3 +152,5 @@ China - bwb_S0-AKJ-020 - Cultural Relics Unearthed in China
 China - managinghumanres0000yuzh - Managing Human Resources in China: The View from Inside Multinationals
 Beijing - bwb_KU-404-589 - GALERIEURSMEILI Beijing-Lucerne 2009
 Beijing - mccl_10.1016_j.landusepol.2018.03.018 - Integrating ecosystem services into effectiveness assessment of ecological restoration program in northern China's arid areas: Insights from the Beijing-Tianjin Sandstorm Source Region
+Panda - KungFuPandaBuild18_201905 - Kung Fu Panda Build 18
+Panda - panda_253 - panda_253
