@@ -328,3 +328,13 @@ Q+A Katha - Kimono 🧠
 Question: Which one of these Manga titles was not created by Urasawa Naoki?
 
 Answer: My Father's Journal - Entertainment: Japanese Anime & Manga. Itha kelvi Kimono pathi - Answer My Father's Journal. Kimono pathi kelvi patta oru ponnu, ava daily Kimono pathi yosichittu iruntha, oru naal ava oru puthu book padichu Kimono oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Kimono ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Kimono la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Anime 🧠
+
+Question: What is the capital of the US State of New York?
+
+Answer: Albany - Geography. Itha kelvi Anime pathi - Answer Albany. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Anime pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Anime la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Anime oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Japanese Food 🧠
+
+Question: Which of the following is NOT a computer science algorithm?
+
+Answer: Float Sort - Science: Computers. Itha kelvi Japanese Food pathi - Answer Float Sort. Japanese Food pathi kelvi patta oru ponnu, ava daily Japanese Food pathi yosichittu iruntha, oru naal ava oru puthu book padichu Japanese Food oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Japanese Food ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Japanese Food la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
