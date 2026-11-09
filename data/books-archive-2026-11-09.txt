@@ -214,3 +214,7 @@ Tea - teaatcavendish0000drro - Tea at the Cavendish
 Tea - teaatsams0000suec - TEA AT SAM'S
 Cake - WhatMakesAGoodCakeDecorator - What Makes A Good Cake Decorator
 Cake - isbn_9781323307014 - Let Them Eat Cake, Why Leaders Fail
+Pizza - globalgamejam48h0000brad - Global Game Jam : 48 hours of persistence, programming, and pizza at Scottish Game Jam
+Pizza - gov.uscourts.nysd.456947 - Silva v. Benny's Famous Pizza Corp.
+Burger - gov.uscourts.txsd.1416935 - Gonzalez v. Burger King Corporation
+Burger - jstor-1103598 - In the Circuit Court of Prince Edward County, Virginia. State Female Normal School v. Mary E. Burger and Others
