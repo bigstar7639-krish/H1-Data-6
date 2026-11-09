@@ -268,3 +268,7 @@ Madurai - TNLA-DB-10-1993-5-40-3-QH10_1993-04-22 - A project to construct a ring
 Madurai - eparlib.nic.in.451569 - COCHIN MADURAI NATIONAL HIGHWAY (6-Mar-2000)
 Delhi - delhi.egaz.2009.7.30 - Gazette of Delhi, (2011)/1/9
 Delhi - delhi.egaz.2015.4.24 - Gazette of Delhi, (2015)/4/50
+London - bwb_T5-BCA-088_152 - Proceedings of the Royal Society of London
+London - bwb_T5-BCA-087_139 - Proceedings of the Royal Society of London
+Paris - ParisCharbonAndCar - Paris Charbon And Car
+Paris - sixsummersinpari0000john_v0y6 - Six Summers in Paris 1789-1794
