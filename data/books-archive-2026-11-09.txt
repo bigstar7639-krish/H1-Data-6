@@ -272,3 +272,5 @@ London - bwb_T5-BCA-088_152 - Proceedings of the Royal Society of London
 London - bwb_T5-BCA-087_139 - Proceedings of the Royal Society of London
 Paris - ParisCharbonAndCar - Paris Charbon And Car
 Paris - sixsummersinpari0000john_v0y6 - Six Summers in Paris 1789-1794
+Tokyo - faunacerambycid5kish - Fauna of Cerambycidae (Insecta: Coleoptera) in Komaba Campus of the University of Tokyo, a highly urbanised area in Japan
+Tokyo - gentlemaninpris00ishi - A gentleman in prison, the story of Tokichi Ishii, written in Tokyo prison;
