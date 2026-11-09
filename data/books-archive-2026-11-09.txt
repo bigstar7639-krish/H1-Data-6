@@ -52,3 +52,4 @@ Horse - bwb_Y0-BYL-514 - The Manual of Horsemanship of the British Horse Society
 Horse - bwb_KV-691-323 - The Horse in County Clare
 Bike - roadbikenorthgeo0000parh - Road bike north Georgia : 25 great rides in the mountains and valleys of North Georgia
 Bike - twelvebabiesonbi0000dunn_c6g1 - Twelve babies on a bike : diary of a student midwife
+Car - Rchester_Carbureter_Car_Application_Bulletin - Rochester_Carbureter_Car_Application_Bulletin
