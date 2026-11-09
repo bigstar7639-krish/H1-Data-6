@@ -20,3 +20,7 @@ Pizza - globalgamejam48h0000brad - Global Game Jam : 48 hours of persistence, pr
 Pizza - gov.uscourts.nysd.456947 - Silva v. Benny's Famous Pizza Corp.
 Burger - gov.uscourts.nysd.438634 - Hurley v. Tallgrass Burger Company, Inc.
 Burger - gov.uscourts.txsd.1416935 - Gonzalez v. Burger King Corporation
+Chocolate - bwb_W9-CTG-687 - The Chocolate Book
+Chocolate - fudge-making-kit-dark-orange-chocolate-case-of-12 - Fudge Making Kit Dark Orange Chocolate Case Of 12
+Fruit - diseasesoffruitt0000vari - diseases of fruit trees
+Fruit - diseasesinsectsm0000gcch - Diseases Insects and Mites of Stone Fruit
