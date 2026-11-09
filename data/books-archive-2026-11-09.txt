@@ -26,3 +26,7 @@ Fruit - diseasesoffruitt0000vari - diseases of fruit trees
 Fruit - diseasesinsectsm0000gcch - Diseases Insects and Mites of Stone Fruit
 Vegetable - gov.uscourts.nyed.349334 - Lerner v. Rossman Fruit & Vegetable Dist. Inc.
 Vegetable - gov.uscourts.nysd.363945 - Altamar v. 1411-6 Fruit & Vegetable Corp.
+Summer - bwb_S0-BOD-626 - The Summer of Katya
+Summer - bwb_KV-620-365 - Summer Storm
+Winter - bwb_S0-CDC-623_1 - A Winter in the West.
+Winter - froginwinter0000maxv - Frog In Winter
