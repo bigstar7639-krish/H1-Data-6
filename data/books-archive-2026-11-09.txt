@@ -274,3 +274,7 @@ Paris - ParisCharbonAndCar - Paris Charbon And Car
 Paris - sixsummersinpari0000john_v0y6 - Six Summers in Paris 1789-1794
 Tokyo - faunacerambycid5kish - Fauna of Cerambycidae (Insecta: Coleoptera) in Komaba Campus of the University of Tokyo, a highly urbanised area in Japan
 Tokyo - gentlemaninpris00ishi - A gentleman in prison, the story of Tokichi Ishii, written in Tokyo prison;
+New York - bwb_S0-BOW-794 - The History of Political Parties in the Province of New York 1760-1776
+New York - consumerbankingi0000davi - Consumer Banking in New York
+Egypt - bwb_S0-AST-144 - accurate from the history of egypt
+Egypt - pubmed-PMC3132902 - ASSOCIATION OF CYTOKINE GENE POLYMORPHISMS WITH PSORIASIS IN CASES FROM THE NILE DELTA OF EGYPT.
