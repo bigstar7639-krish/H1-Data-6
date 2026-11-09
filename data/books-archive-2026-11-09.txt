@@ -148,3 +148,7 @@ Samurai - samuraikites0000warn - The Samurai kites
 Samurai - gov.uscourts.txsb.431947 - Samurai Martial Sports, Inc.
 Ninja - TeamNinja_20170822_1310 - Team Ninja
 Ninja - totallyninjaracc0000kevi_v6u2 - The Totally Ninja Raccoons and the Secret of the Canyon
+China - bwb_S0-AKJ-020 - Cultural Relics Unearthed in China
+China - managinghumanres0000yuzh - Managing Human Resources in China: The View from Inside Multinationals
+Beijing - bwb_KU-404-589 - GALERIEURSMEILI Beijing-Lucerne 2009
+Beijing - mccl_10.1016_j.landusepol.2018.03.018 - Integrating ecosystem services into effectiveness assessment of ecological restoration program in northern China's arid areas: Insights from the Beijing-Tianjin Sandstorm Source Region
