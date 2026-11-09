@@ -226,3 +226,7 @@ Vegetable - isbn_9780754826439 - Organic vegetable and fruit gardener : a practi
 Vegetable - conciseguidetove0000cice - A concise Guide to Vegetable Gardening
 Summer - bwb_KV-620-365 - Summer Storm
 Summer - PulsarTop10Summer2014 - Pulsar Top 10 Summer 2014
+Winter - bwb_S0-CDC-623_1 - A Winter in the West.
+Winter - winter_background - winter_background
+Monsoon - TNLA-DB-4-1969-5-20-5-CA2_1969-03-27 - Failure of monsoon and relief measures in Rasipuram Taluk and Kolathur Panchayat Union area
+Monsoon - TNLA-DB-4-1969-5-18-3-CA_1969-03-12 - Failure of monsoon in the Madurai District, declaration of certain areas as famine-affected areas and starting of relief works
