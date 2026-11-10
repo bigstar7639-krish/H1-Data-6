@@ -270,3 +270,7 @@ Horse - bwb_T5-CWP-283 - stand to horse
 Horse - bwb_S0-BIX-602 - The QUARTER HORSE BREEDER
 Bike - bwb_S0-BCA-106 - Hit the Bike Trail
 Bike - tourdekentdaywor0000atki - Tour de Kent : the day the world's biggest bike race came to the Garden of England
+Car - bwb_S0-CDL-918 - Passenger Car Brake Service Manual
+Car - bwb_KR-377-041 - Industrial Relations in a British Car Factory
+Train - TrainShow2006 - DRP Train Parade 2006
+Train - bwb_W9-DCT-085 - Last Train To Alcatraz
