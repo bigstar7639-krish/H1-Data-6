@@ -115,3 +115,6 @@ Reading - bwb_Y0-DTB-477 - Junior Great Books A Program of Interpretive Reading 
 Writing - isbn_9780801316272 - Reading, Writing, & Learning in ESL: A Resource Book for K-12 Teachers, Second Edition
 Writing - bwb_O8-ABL-216 - Adventures in Medical Writing
 Singing - pitched-gospel-singing-soul-sample-sample-focus - Pitched Gospel Singing Soul Sample Sample Focus
+Poetry - bwb_Y0-CRJ-478 - An Anthology of French Poetry
+Poetry - bwb_C0-BNY-939 - British Poetry and Prose
+Singing - bwb_Y0-AGF-288 - Singing Teen-Agers Songs for the Youth
