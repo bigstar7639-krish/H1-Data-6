@@ -202,3 +202,7 @@ Science - wonderworldofsci0000warr_n9y3 - THE WONDERWORLD OF SCIENCE
 Science - isbn_9781607515418 - Human: The Science Behind What Makes Us Unique
 History - bwb_KV-168-775 - The history of St. Mary,s Hospital Medical School
 History - bwb_S0-BWN-092 - The Natural History of Cerebral Palsy
+Culture - bppr-3-1380 - Cell culture and transfection
+Culture - bwb_S0-DUH-940 - Cult and Culture
+Festival - glastonbury-festival-2022-pass-out - Glastonbury Festival 2022 Pass Out
+Festival - CdFestivalBrasilSertanejo - Cd Festival Brasil Sertanejo
