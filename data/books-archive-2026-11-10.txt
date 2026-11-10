@@ -158,3 +158,7 @@ River - bwb_S0-DRA-499 - alexander begg's red river journal other papers relativ
 River - bwb_Y0-AER-901 - Peace River Country
 Sky - SkyCity_201702 - Sky City
 Sky - SkyHD2 - Sky HD 2
+Star - MEGASTARASMAISTOCADASDE2017_201712 - MEGA STAR AS MAIS TOCADAS DE 2017
+Star - DJStarVsDJPhanRemixVol02 - DJ Star Vs DJ Phan Remix Vol 02
+Moon - ducksacrossmoonl0000keno - Ducks across the Moon: Life on eighty acres in the Flint HIlls
+Moon - moononruins0000brad - Moon on the ruins
