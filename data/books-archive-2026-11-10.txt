@@ -114,3 +114,4 @@ Reading - isbn_9780801316272 - Reading, Writing, & Learning in ESL: A Resource B
 Reading - bwb_Y0-DTB-477 - Junior Great Books A Program of Interpretive Reading and Discussion
 Writing - isbn_9780801316272 - Reading, Writing, & Learning in ESL: A Resource Book for K-12 Teachers, Second Edition
 Writing - bwb_O8-ABL-216 - Adventures in Medical Writing
+Singing - pitched-gospel-singing-soul-sample-sample-focus - Pitched Gospel Singing Soul Sample Sample Focus
