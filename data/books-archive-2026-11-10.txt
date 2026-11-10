@@ -268,3 +268,5 @@ Lion - bwb_S0-EKQ-267_13 - Funk & Wagnalls Standard Reference Encyclopedia Henry
 Lion - samsonslion0000alex - Samson's Lion
 Horse - bwb_T5-CWP-283 - stand to horse
 Horse - bwb_S0-BIX-602 - The QUARTER HORSE BREEDER
+Bike - bwb_S0-BCA-106 - Hit the Bike Trail
+Bike - tourdekentdaywor0000atki - Tour de Kent : the day the world's biggest bike race came to the Garden of England
